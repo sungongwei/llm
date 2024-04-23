@@ -1,180 +1,272 @@
+{"conversations":[{"role":"user","content":"在智慧查验平台发起委托有什么变化吗？"},{"role":"assistant","content":"发起委托无变化"}]}
 {"conversations":[{"role":"user","content":"在智慧查验平台发起委托是否有变化？"},{"role":"assistant","content":"发起委托无变化"}]}
+{"conversations":[{"role":"user","content":"怎么向海关预约查验？"},{"role":"assistant","content":"一是报关单位收到查验指令后发起委托；二是被委托人在手机APP确认委托信息（自选项：查验平台，是否自备车）；三是确认委托后点击预约按钮，查看提示框后选择确认。"}]}
 {"conversations":[{"role":"user","content":"如何预约海关查验？"},{"role":"assistant","content":"一是报关单位收到查验指令后发起委托；二是被委托人在手机APP确认委托信息（自选项：查验平台，是否自备车）；三是确认委托后点击预约按钮，查看提示框后选择确认。"}]}
 {"conversations":[{"role":"user","content":"海关查验预约步骤是什么？"},{"role":"assistant","content":"一是报关单位收到查验指令后发起委托；二是被委托人在手机APP确认委托信息（自选项：查验平台，是否自备车）；三是确认委托后点击预约按钮，查看提示框后选择确认。"}]}
 {"conversations":[{"role":"user","content":"海关查验预约操作步骤是什么？"},{"role":"assistant","content":"一是报关单位收到查验指令后发起委托；二是被委托人在手机APP确认委托信息（自选项：查验平台，是否自备车）；三是确认委托后点击预约按钮，查看提示框后选择确认。"}]}
 {"conversations":[{"role":"user","content":"怎样预约海关查验？"},{"role":"assistant","content":"一是报关单位收到查验指令后发起委托；二是被委托人在手机APP确认委托信息（自选项：查验平台，是否自备车）；三是确认委托后点击预约按钮，查看提示框后选择确认。"}]}
+{"conversations":[{"role":"user","content":"我怎么知道查验区是否已受理？"},{"role":"assistant","content":"查验受理、集装箱入场、派车集港都会有信息推送，在已预约详情里也有详细的时间节点展示。"}]}
 {"conversations":[{"role":"user","content":"如何知道查验箱已受理？"},{"role":"assistant","content":"查验受理、集装箱入场、派车集港都会有信息推送，在已预约详情里也有详细的时间节点展示。"}]}
 {"conversations":[{"role":"user","content":"查看查验箱是否已经受理？"},{"role":"assistant","content":"查验受理、集装箱入场、派车集港都会有信息推送，在已预约详情里也有详细的时间节点展示。"}]}
 {"conversations":[{"role":"user","content":"查验区的箱子是否受理？"},{"role":"assistant","content":"查验受理、集装箱入场、派车集港都会有信息推送，在已预约详情里也有详细的时间节点展示。"}]}
 {"conversations":[{"role":"user","content":"如何查看查验箱子是否受理？"},{"role":"assistant","content":"查验受理、集装箱入场、派车集港都会有信息推送，在已预约详情里也有详细的时间节点展示。"}]}
+{"conversations":[{"role":"user","content":"什么情况下需要同步查验区系统?"},{"role":"assistant","content":"委托确认后，信息详情里有是否已同步查验区系统,状态显示为\"否\"的，需点击同步查验区系统。"}]}
 {"conversations":[{"role":"user","content":"同步查验区系统一般在在什么情况下？"},{"role":"assistant","content":"委托确认后，信息详情里有是否已同步查验区系统,状态显示为\"否\"的，需点击同步查验区系统。"}]}
 {"conversations":[{"role":"user","content":"同步查验区系统的情形是什么？"},{"role":"assistant","content":"委托确认后，信息详情里有是否已同步查验区系统,状态显示为\"否\"的，需点击同步查验区系统。"}]}
 {"conversations":[{"role":"user","content":"什么情形下需要同步查验区系统?"},{"role":"assistant","content":"委托确认后，信息详情里有是否已同步查验区系统,状态显示为\"否\"的，需点击同步查验区系统。"}]}
+{"conversations":[{"role":"user","content":"未同步查验区系统的情况下，可以预约查验吗？"},{"role":"assistant","content":"未同步查验区系统说明查验区未收到查验信息，不予预约查验。"}]}
 {"conversations":[{"role":"user","content":"没有同步查验区系统，可以预约查验吗？"},{"role":"assistant","content":"未同步查验区系统说明查验区未收到查验信息，不予预约查验。"}]}
 {"conversations":[{"role":"user","content":"查验区系统未同步，可以预约查验吗"},{"role":"assistant","content":"未同步查验区系统说明查验区未收到查验信息，不予预约查验。"}]}
 {"conversations":[{"role":"user","content":"查验区系统没有同步，可以预约查验吗"},{"role":"assistant","content":"未同步查验区系统说明查验区未收到查验信息，不予预约查验。"}]}
+{"conversations":[{"role":"user","content":"我可以修改查验代理人吗？"},{"role":"assistant","content":"发起查验委托时可以同时委托3位代理人，但其中一人接受委托后其他人将自动取消接受委托权限。报关单派单前可在查验管理栏修改查验代理人，该公司下若仅委托一个人则无法修改。"}]}
 {"conversations":[{"role":"user","content":"查验代理人可以修改吗"},{"role":"assistant","content":"发起查验委托时可以同时委托3位代理人，但其中一人接受委托后其他人将自动取消接受委托权限。报关单派单前可在查验管理栏修改查验代理人，该公司下若仅委托一个人则无法修改。"}]}
 {"conversations":[{"role":"user","content":"我想修改查验代理人，可以吗？"},{"role":"assistant","content":"发起查验委托时可以同时委托3位代理人，但其中一人接受委托后其他人将自动取消接受委托权限。报关单派单前可在查验管理栏修改查验代理人，该公司下若仅委托一个人则无法修改。"}]}
+{"conversations":[{"role":"user","content":"查验预约成功，但是不显示确认信息，这是什么原因？"},{"role":"assistant","content":"系统默认确认时间为预约当天晚19点，出口船期急的除外。"}]}
 {"conversations":[{"role":"user","content":"查验预约后不显示确认信息是什么原因？"},{"role":"assistant","content":"系统默认确认时间为预约当天晚19点，出口船期急的除外。"}]}
 {"conversations":[{"role":"user","content":"查验预约后为什么不显示确认信息？"},{"role":"assistant","content":"系统默认确认时间为预约当天晚19点，出口船期急的除外。"}]}
 {"conversations":[{"role":"user","content":"为什么查验预约后不显示确认信息？"},{"role":"assistant","content":"系统默认确认时间为预约当天晚19点，出口船期急的除外。"}]}
+{"conversations":[{"role":"user","content":"第二天下午6点出口开船的情况，海关是否也是晚上19点确认？"},{"role":"assistant","content":"否。在场地人员未满额且在下午三点前，系统可以自动接受预约，如未自动确认，可与现场带班科长联系手动确认。"}]}
 {"conversations":[{"role":"user","content":"针对第二天下午6点出口开船的情形，海关是几点确认？"},{"role":"assistant","content":"否。在场地人员未满额且在下午三点前，系统可以自动接受预约，如未自动确认，可与现场带班科长联系手动确认。"}]}
 {"conversations":[{"role":"user","content":"海关确定预约的时间是什么？"},{"role":"assistant","content":"否。在场地人员未满额且在下午三点前，系统可以自动接受预约，如未自动确认，可与现场带班科长联系手动确认。"}]}
+{"conversations":[{"role":"user","content":"如果预约成功查验区收不到信息，该怎么办？"},{"role":"assistant","content":"在预约管理栏有申请查验拖箱，录入相关信息后再跟查验区确认。"}]}
 {"conversations":[{"role":"user","content":"接收不到预约成功查验区的信息，该如何解决？"},{"role":"assistant","content":"在预约管理栏有申请查验拖箱，录入相关信息后再跟查验区确认。"}]}
+{"conversations":[{"role":"user","content":"排序规则是什么样的？"},{"role":"assistant","content":"一是防疫物资、鲜活易腐等特种货物优先查验；二是先出口后进口、出口按照船期排序、进口按照接受预约时间排序；三是同等条件下经营单位为AEO高级认证企业的优先。"}]}
 {"conversations":[{"role":"user","content":"排序规则是什么？"},{"role":"assistant","content":"一是防疫物资、鲜活易腐等特种货物优先查验；二是先出口后进口、出口按照船期排序、进口按照接受预约时间排序；三是同等条件下经营单位为AEO高级认证企业的优先。"}]}
+{"conversations":[{"role":"user","content":"为什么我的预约不能自动通过审核？"},{"role":"assistant","content":"一是发起委托后48小时内不确认的不予自动确认；二是二次预约的不予自动确认；三是申请复验后需从新预约查验；四是其他特殊情况。"}]}
 {"conversations":[{"role":"user","content":"预约不能自动通过审核的原因？"},{"role":"assistant","content":"一是发起委托后48小时内不确认的不予自动确认；二是二次预约的不予自动确认；三是申请复验后需从新预约查验；四是其他特殊情况。"}]}
 {"conversations":[{"role":"user","content":"预约为什么不能自动审核？"},{"role":"assistant","content":"一是发起委托后48小时内不确认的不予自动确认；二是二次预约的不予自动确认；三是申请复验后需从新预约查验；四是其他特殊情况。"}]}
 {"conversations":[{"role":"user","content":"我已经预约了，但是还没有自动审核，这是什么原因？"},{"role":"assistant","content":"一是发起委托后48小时内不确认的不予自动确认；二是二次预约的不予自动确认；三是申请复验后需从新预约查验；四是其他特殊情况。"}]}
+{"conversations":[{"role":"user","content":"我可以取消预约吗？"},{"role":"assistant","content":"在查验管理栏查验状态显示已预约的可以取消预约，海关确认后的请与带班科长联系取消预约。"}]}
 {"conversations":[{"role":"user","content":"如何取消预约？"},{"role":"assistant","content":"在查验管理栏查验状态显示已预约的可以取消预约，海关确认后的请与带班科长联系取消预约。"}]}
 {"conversations":[{"role":"user","content":"取消预约的流程是什么？"},{"role":"assistant","content":"在查验管理栏查验状态显示已预约的可以取消预约，海关确认后的请与带班科长联系取消预约。"}]}
 {"conversations":[{"role":"user","content":"怎么取消预约？"},{"role":"assistant","content":"在查验管理栏查验状态显示已预约的可以取消预约，海关确认后的请与带班科长联系取消预约。"}]}
+{"conversations":[{"role":"user","content":"我想申请复验，应该怎么操作？"},{"role":"assistant","content":"首先向海关提出申请，海关同意后在查验结果里点击申请复验，海关审核同意后重新预约，并联系带班科长人工确认信息。"}]}
 {"conversations":[{"role":"user","content":"申请复验的操作流程是什么？"},{"role":"assistant","content":"首先向海关提出申请，海关同意后在查验结果里点击申请复验，海关审核同意后重新预约，并联系带班科长人工确认信息。"}]}
 {"conversations":[{"role":"user","content":"如何申请复验？"},{"role":"assistant","content":"首先向海关提出申请，海关同意后在查验结果里点击申请复验，海关审核同意后重新预约，并联系带班科长人工确认信息。"}]}
 {"conversations":[{"role":"user","content":"申请复验的步骤是什么？"},{"role":"assistant","content":"首先向海关提出申请，海关同意后在查验结果里点击申请复验，海关审核同意后重新预约，并联系带班科长人工确认信息。"}]}
+{"conversations":[{"role":"user","content":"我可以通过系统申请免单吗？"},{"role":"assistant","content":"可以，查验完成后在PC端和手机APP均可申请免单。"}]}
 {"conversations":[{"role":"user","content":"如何通过系统申请免单？"},{"role":"assistant","content":"可以，查验完成后在PC端和手机APP均可申请免单。"}]}
 {"conversations":[{"role":"user","content":"系统申请免单的流程是什么？"},{"role":"assistant","content":"可以，查验完成后在PC端和手机APP均可申请免单。"}]}
+{"conversations":[{"role":"user","content":"免单申请成功后，青岛港反馈收不到免单标志，我该怎么办？"},{"role":"assistant","content":"免单申请成功后，数据中心会将免单结果反馈到云港通系统，如收不到应属于网络故障，可以联系青岛港在线客服给予后台查询。"}]}
 {"conversations":[{"role":"user","content":"青岛港接收不到免单申请成功信息，这是什么原因？"},{"role":"assistant","content":"免单申请成功后，数据中心会将免单结果反馈到云港通系统，如收不到应属于网络故障，可以联系青岛港在线客服给予后台查询。"}]}
 {"conversations":[{"role":"user","content":"免单申请成功后，青岛港收不到免单标志，这是什么原因？"},{"role":"assistant","content":"免单申请成功后，数据中心会将免单结果反馈到云港通系统，如收不到应属于网络故障，可以联系青岛港在线客服给予后台查询。"}]}
 {"conversations":[{"role":"user","content":"青岛港收不到免单标志的原因是什么？"},{"role":"assistant","content":"免单申请成功后，数据中心会将免单结果反馈到云港通系统，如收不到应属于网络故障，可以联系青岛港在线客服给予后台查询。"}]}
+{"conversations":[{"role":"user","content":"云港通APP没有免费申请权限，这是什么情况？"},{"role":"assistant","content":"一是失信企业；二是异常状态；三是指令来源2"}]}
 {"conversations":[{"role":"user","content":"云港通APP无免费申请权限的原因是什么？"},{"role":"assistant","content":"一是失信企业；二是异常状态；三是指令来源2"}]}
 {"conversations":[{"role":"user","content":"我的云港通APP为什么没有免费申请权限？"},{"role":"assistant","content":"一是失信企业；二是异常状态；三是指令来源2"}]}
+{"conversations":[{"role":"user","content":"我发现已经预约通过的货物无法查验了，我该怎么办？"},{"role":"assistant","content":"预约通过即代表随时可以陪同查验，如不能实施查验需及时跟带班科长说明原因，申请驳回预约（例如：1、取样资料不全。2、特殊货物需要专业技术人员等情况）"}]}
 {"conversations":[{"role":"user","content":"货物预约成功了，但是无法查验，如何解决？"},{"role":"assistant","content":"预约通过即代表随时可以陪同查验，如不能实施查验需及时跟带班科长说明原因，申请驳回预约（例如：1、取样资料不全。2、特殊货物需要专业技术人员等情况）"}]}
 {"conversations":[{"role":"user","content":"预约成功的货物无法查验，这是什么原因？"},{"role":"assistant","content":"预约通过即代表随时可以陪同查验，如不能实施查验需及时跟带班科长说明原因，申请驳回预约（例如：1、取样资料不全。2、特殊货物需要专业技术人员等情况）"}]}
 {"conversations":[{"role":"user","content":"预约成功的货物无法查验，这是什么情况？"},{"role":"assistant","content":"预约通过即代表随时可以陪同查验，如不能实施查验需及时跟带班科长说明原因，申请驳回预约（例如：1、取样资料不全。2、特殊货物需要专业技术人员等情况）"}]}
+{"conversations":[{"role":"user","content":"海关驳回后我还能再预约吗？"},{"role":"assistant","content":"可以二次预约，二次预约不予自动确认，需联系带班科长人工确认。"}]}
 {"conversations":[{"role":"user","content":"海关驳回查验预约申请，我可以进行二次预约吗？"},{"role":"assistant","content":"可以二次预约，二次预约不予自动确认，需联系带班科长人工确认。"}]}
 {"conversations":[{"role":"user","content":"查验预约申请被海关驳回了，我可以二次预约吗"},{"role":"assistant","content":"可以二次预约，二次预约不予自动确认，需联系带班科长人工确认。"}]}
 {"conversations":[{"role":"user","content":"查验预约被海关驳回了，我该如何操作？"},{"role":"assistant","content":"可以二次预约，二次预约不予自动确认，需联系带班科长人工确认。"}]}
+{"conversations":[{"role":"user","content":"我想加减箱应该怎么办？"},{"role":"assistant","content":"查验管理栏有申请加减箱功能，可以自行加减，但是在海关查四内无此箱时无法免单，请谨慎操作。减箱在重新下达查验指令且未派车的情况下可以申请减箱。"}]}
 {"conversations":[{"role":"user","content":"加减箱的操作流程是什么？"},{"role":"assistant","content":"查验管理栏有申请加减箱功能，可以自行加减，但是在海关查四内无此箱时无法免单，请谨慎操作。减箱在重新下达查验指令且未派车的情况下可以申请减箱。"}]}
 {"conversations":[{"role":"user","content":"我想申请加减箱，如何进行操作？"},{"role":"assistant","content":"查验管理栏有申请加减箱功能，可以自行加减，但是在海关查四内无此箱时无法免单，请谨慎操作。减箱在重新下达查验指令且未派车的情况下可以申请减箱。"}]}
+{"conversations":[{"role":"user","content":"PC端的先期机检标志是什么意思？"},{"role":"assistant","content":"进口箱子在卸船时会有一定比例前沿过机，如此箱子布控查验并机检，海关会优先查看先期机检图，如符合直放，箱子直接放行，不用背进查验区，箱子是否先期机检只能在电脑PC端显示。"}]}
 {"conversations":[{"role":"user","content":"先期机检标志代表什么？"},{"role":"assistant","content":"进口箱子在卸船时会有一定比例前沿过机，如此箱子布控查验并机检，海关会优先查看先期机检图，如符合直放，箱子直接放行，不用背进查验区，箱子是否先期机检只能在电脑PC端显示。"}]}
 {"conversations":[{"role":"user","content":"先期机检标志意味着什么？"},{"role":"assistant","content":"进口箱子在卸船时会有一定比例前沿过机，如此箱子布控查验并机检，海关会优先查看先期机检图，如符合直放，箱子直接放行，不用背进查验区，箱子是否先期机检只能在电脑PC端显示。"}]}
+{"conversations":[{"role":"user","content":"失信企业预约查验是否需要海关人工确认？"},{"role":"assistant","content":"不需要"}]}
 {"conversations":[{"role":"user","content":"海关人工需要确认失信企业预约查验吗？"},{"role":"assistant","content":"不需要"}]}
+{"conversations":[{"role":"user","content":"查验结果为挂起，还需要重新预约吗？"},{"role":"assistant","content":"不需要重新预约查验，如果海关驳回需要重新预约查验。"}]}
 {"conversations":[{"role":"user","content":"查验结果为挂起是否需要重新预约？"},{"role":"assistant","content":"不需要重新预约查验，如果海关驳回需要重新预约查验。"}]}
+{"conversations":[{"role":"user","content":"现在可以通过系统直接计费吗？"},{"role":"assistant","content":"计费功能暂不使用，逐步完善中。"}]}
 {"conversations":[{"role":"user","content":"系统可以直接计费吗？"},{"role":"assistant","content":"计费功能暂不使用，逐步完善中。"}]}
+{"conversations":[{"role":"user","content":"云港通APP出现故障，我应跟谁联系？"},{"role":"assistant","content":"客服电话0532-82983307（8：00~17：00）；0532 - 82984747（周六周日、节假日）"}]}
 {"conversations":[{"role":"user","content":"云港通APP 出现问题，如何解决？"},{"role":"assistant","content":"客服电话0532-82983307（8：00~17：00）；0532 - 82984747（周六周日、节假日）"}]}
 {"conversations":[{"role":"user","content":"云港通APP 有问题，有解决方案吗？"},{"role":"assistant","content":"客服电话0532-82983307（8：00~17：00）；0532 - 82984747（周六周日、节假日）"}]}
+{"conversations":[{"role":"user","content":"在陆海通或云港通系统查不到查验缴费信息，应该怎么办？"},{"role":"assistant","content":"此种情况为查验现场未做计费受理，北港一号平台查验区请拨打82987191，北港加工厂查验区请拨打82987401"}]}
 {"conversations":[{"role":"user","content":"查验缴费信息无法在陆海通或者云港通显示出来，这是什么情况？"},{"role":"assistant","content":"此种情况为查验现场未做计费受理，北港一号平台查验区请拨打82987191，北港加工厂查验区请拨打82987401"}]}
 {"conversations":[{"role":"user","content":"陆海通或者云港通没有查验缴费的信息提示，应该如何操作？"},{"role":"assistant","content":"此种情况为查验现场未做计费受理，北港一号平台查验区请拨打82987191，北港加工厂查验区请拨打82987401"}]}
+{"conversations":[{"role":"user","content":"在查验区提箱时，司机无法提箱，闸口提示欠费，如何解决？"},{"role":"assistant","content":"请通过云港通网上营业厅或是陆海通手机端查验业务中的“补交堆存”页面查询是否存在欠费情况"}]}
 {"conversations":[{"role":"user","content":"查验费用已经缴纳，司机无法在查验区提箱，这是什么情况？"},{"role":"assistant","content":"请通过云港通网上营业厅或是陆海通手机端查验业务中的“补交堆存”页面查询是否存在欠费情况"}]}
 {"conversations":[{"role":"user","content":"司机在查验区无法提箱，如何解决？"},{"role":"assistant","content":"请通过云港通网上营业厅或是陆海通手机端查验业务中的“补交堆存”页面查询是否存在欠费情况"}]}
+{"conversations":[{"role":"user","content":"如何查询缴纳费用明细？"},{"role":"assistant","content":"可咨询82986186进行明细查询"}]}
 {"conversations":[{"role":"user","content":"缴纳费用明细要怎么查询？"},{"role":"assistant","content":"可咨询82986186进行明细查询"}]}
 {"conversations":[{"role":"user","content":"缴纳费用明细要如何进行查询？"},{"role":"assistant","content":"可咨询82986186进行明细查询"}]}
+{"conversations":[{"role":"user","content":"查验免单箱误交费后如何退费？"},{"role":"assistant","content":"请出具情况说明、免单审核截图复印件、付款凭据复印件、发票到大赶岛客服大厅13号窗口办理"}]}
 {"conversations":[{"role":"user","content":"如何申请查验免单箱的退费？"},{"role":"assistant","content":"请出具情况说明、免单审核截图复印件、付款凭据复印件、发票到大赶岛客服大厅13号窗口办理"}]}
 {"conversations":[{"role":"user","content":"查验免单箱如何申请退费？"},{"role":"assistant","content":"请出具情况说明、免单审核截图复印件、付款凭据复印件、发票到大赶岛客服大厅13号窗口办理"}]}
+{"conversations":[{"role":"user","content":"南港海关查验费用如何缴纳？"},{"role":"assistant","content":"可咨询计费现场电话89600860查询费用，通过电汇方式进行付款"}]}
 {"conversations":[{"role":"user","content":"如何缴纳南港海关查验费用？"},{"role":"assistant","content":"可咨询计费现场电话89600860查询费用，通过电汇方式进行付款"}]}
+{"conversations":[{"role":"user","content":"如何处理查验科室预约错误的情况？"},{"role":"assistant","content":"请联系海关相关科室驳回，重新修改"}]}
 {"conversations":[{"role":"user","content":"查验科室预约错误，如何解决？"},{"role":"assistant","content":"请联系海关相关科室驳回，重新修改"}]}
 {"conversations":[{"role":"user","content":"出现预约查验科室错误的情况，如何解决？"},{"role":"assistant","content":"请联系海关相关科室驳回，重新修改"}]}
+{"conversations":[{"role":"user","content":"如何处理云港通无法加拖箱的问题？"},{"role":"assistant","content":"请提交情况说明由查验区人员手工申请"}]}
 {"conversations":[{"role":"user","content":"遇到云港通无法加拖箱的问题，怎么办？"},{"role":"assistant","content":"请提交情况说明由查验区人员手工申请"}]}
 {"conversations":[{"role":"user","content":"在云港通无法加拖箱时，怎么处理？"},{"role":"assistant","content":"请提交情况说明由查验区人员手工申请"}]}
+{"conversations":[{"role":"user","content":"查验场地背箱靠平台的操作，如何申请办理？"},{"role":"assistant","content":"请联系海关查验科室，由海关查验科室带班科长通知查验区"}]}
 {"conversations":[{"role":"user","content":"如何办理从查验场地背箱靠平台的操作？"},{"role":"assistant","content":"请联系海关查验科室，由海关查验科室带班科长通知查验区"}]}
+{"conversations":[{"role":"user","content":"物流园查验箱的查验流程是什么？"},{"role":"assistant","content":"物流园查验箱需客户自行安排车辆将布控箱背至查验平台，云港通走特殊委托，并将此票货详细信息反馈至南港查验区"}]}
 {"conversations":[{"role":"user","content":"物流园查验箱的查验步骤是什么？"},{"role":"assistant","content":"物流园查验箱需客户自行安排车辆将布控箱背至查验平台，云港通走特殊委托，并将此票货详细信息反馈至南港查验区"}]}
+{"conversations":[{"role":"user","content":"南港查验熏蒸箱何时入熏蒸区进行熏蒸？"},{"role":"assistant","content":"请关注“QQCTU海关查验服务群”内公示信息表"}]}
 {"conversations":[{"role":"user","content":"如何查询南港查验熏蒸箱的熏蒸时间？"},{"role":"assistant","content":"请关注“QQCTU海关查验服务群”内公示信息表"}]}
+{"conversations":[{"role":"user","content":"进出口箱申请查验加托，如何操作？"},{"role":"assistant","content":"请接特殊委托（发送情况说明由平台受理人员手动受理加托）"}]}
 {"conversations":[{"role":"user","content":"如何申请进出口箱查验加托？"},{"role":"assistant","content":"请接特殊委托（发送情况说明由平台受理人员手动受理加托）"}]}
 {"conversations":[{"role":"user","content":"如何办理进出口箱查验加托？"},{"role":"assistant","content":"请接特殊委托（发送情况说明由平台受理人员手动受理加托）"}]}
+{"conversations":[{"role":"user","content":"出口集港机检直放无法提集港，怎么办？"},{"role":"assistant","content":"联系海关协检人员走机检直放流程"}]}
 {"conversations":[{"role":"user","content":"进口转出口退运箱的操作流程是什么？"},{"role":"assistant","content":"联系海关协检人员走机检直放流程"}]}
 {"conversations":[{"role":"user","content":"如何实现进口转出口退运箱（CFS)？"},{"role":"assistant","content":"联系一号平台（82987229）填写海关查验货物调箱通知单"}]}
+{"conversations":[{"role":"user","content":"进口返场的操作流程是什么？"},{"role":"assistant","content":"联系一号平台(82987229)受理人员受理返场"}]}
 {"conversations":[{"role":"user","content":"如何实现进口返场？"},{"role":"assistant","content":"联系一号平台(82987229)受理人员受理返场"}]}
+{"conversations":[{"role":"user","content":"个别科室无法接拖箱委托，如何处理？"},{"role":"assistant","content":"需情况说明写明原因，联系一号平台受理人员人工受理82987229"}]}
 {"conversations":[{"role":"user","content":"如何处理个别科室无法接拖箱委托的情况？"},{"role":"assistant","content":"需情况说明写明原因，联系一号平台受理人员人工受理82987229"}]}
+{"conversations":[{"role":"user","content":"如何查询北港加工厂熏蒸箱的熏蒸时间？"},{"role":"assistant","content":"请关注“加工厂海关电子移动证办理群”内公示信息表"}]}
 {"conversations":[{"role":"user","content":"北港加工厂熏蒸箱何时可以熏蒸？"},{"role":"assistant","content":"请关注“加工厂海关电子移动证办理群”内公示信息表"}]}
+{"conversations":[{"role":"user","content":"如何预约关前和关后集装箱熏蒸？"},{"role":"assistant","content":"将带有熏蒸申请和检验检疫处理通知书的情况说明提交加工厂查验区，加工厂受理后拖箱，集装箱入场后代理企业联系检验检疫处理公司进行投药熏蒸"}]}
 {"conversations":[{"role":"user","content":"关前和关后集装箱熏蒸的预约步骤是什么？"},{"role":"assistant","content":"将带有熏蒸申请和检验检疫处理通知书的情况说明提交加工厂查验区，加工厂受理后拖箱，集装箱入场后代理企业联系检验检疫处理公司进行投药熏蒸"}]}
 {"conversations":[{"role":"user","content":"关前和关后集装箱熏蒸的预约流程是什么？"},{"role":"assistant","content":"将带有熏蒸申请和检验检疫处理通知书的情况说明提交加工厂查验区，加工厂受理后拖箱，集装箱入场后代理企业联系检验检疫处理公司进行投药熏蒸"}]}
+{"conversations":[{"role":"user","content":"如何进行木材和粮食的预约查验？"},{"role":"assistant","content":"在山东电子口岸海关智慧监管平台填写查验信息，选择查验地点后发送至云港通，在云港通对应信息内选择查验科室、查验地点、来源国等信息后，点击申请查验"}]}
 {"conversations":[{"role":"user","content":"木材和粮食的查验预约流程是什么？"},{"role":"assistant","content":"在山东电子口岸海关智慧监管平台填写查验信息，选择查验地点后发送至云港通，在云港通对应信息内选择查验科室、查验地点、来源国等信息后，点击申请查验"}]}
+{"conversations":[{"role":"user","content":"查验箱和熏蒸箱返场后如何进行缴费？"},{"role":"assistant","content":"加工厂查验区对木材和熏蒸箱实行百分百返场，查验和熏蒸完毕的集装箱，加工厂第一时间进行返场，返场完毕后进行计费，企业才可缴费。"}]}
 {"conversations":[{"role":"user","content":"如何缴费返场后的查验箱和熏蒸箱？"},{"role":"assistant","content":"加工厂查验区对木材和熏蒸箱实行百分百返场，查验和熏蒸完毕的集装箱，加工厂第一时间进行返场，返场完毕后进行计费，企业才可缴费。"}]}
+{"conversations":[{"role":"user","content":"如何增加查验箱号、删减查验箱号、二次查验等细化指令问题？"},{"role":"assistant","content":"需代理企业联系相关对应科室科长，由科长审核后通知查验区。查验区根据海关要求进行作业，并通知企业。"}]}
 {"conversations":[{"role":"user","content":"查验箱号、删减查验箱号、二次查验等细化指令问题，如何进行增加？"},{"role":"assistant","content":"需代理企业联系相关对应科室科长，由科长审核后通知查验区。查验区根据海关要求进行作业，并通知企业。"}]}
 {"conversations":[{"role":"user","content":"忘记密码怎么办？"},{"role":"assistant","content":"在登录页面点击“忘记密码”，通过获取该手机验证码进行密码更改操作。"}]}
+{"conversations":[{"role":"user","content":"如何更换其它账号登录？"},{"role":"assistant","content":"在菜单“我的”里面有注销账号按钮（“管理中心”界面姓名处点击退出系统后），点击后自动回到登录页面，即可登录其他账号。"}]}
 {"conversations":[{"role":"user","content":"如何登录其他账号？"},{"role":"assistant","content":"在菜单“我的”里面有注销账号按钮（“管理中心”界面姓名处点击退出系统后），点击后自动回到登录页面，即可登录其他账号。"}]}
+{"conversations":[{"role":"user","content":"账户状态已锁定怎么办？"},{"role":"assistant","content":"请您及时联系该企业平台管理员进行审核。"}]}
 {"conversations":[{"role":"user","content":"账户状态被锁定，如何解决？"},{"role":"assistant","content":"请您及时联系该企业平台管理员进行审核。"}]}
 {"conversations":[{"role":"user","content":"如何解决账户状态被锁定的问题？"},{"role":"assistant","content":"请您及时联系该企业平台管理员进行审核。"}]}
+{"conversations":[{"role":"user","content":"如何进行账号注册？"},{"role":"assistant","content":"账号注册请在电脑网页端进行，手机端仅提供登录后业务处理操作。"}]}
 {"conversations":[{"role":"user","content":"如何注册账号注册"},{"role":"assistant","content":"账号注册请在电脑网页端进行，手机端仅提供登录后业务处理操作。"}]}
+{"conversations":[{"role":"user","content":"如何反馈云港通使用意见？"},{"role":"assistant","content":"您可以通过菜单“提交意见反馈”填写您的建议，我们将尽快进行处理。"}]}
 {"conversations":[{"role":"user","content":"云港通使用过程发现问题，在哪里提交意见？"},{"role":"assistant","content":"您可以通过菜单“提交意见反馈”填写您的建议，我们将尽快进行处理。"}]}
+{"conversations":[{"role":"user","content":"如何更改注册邮箱？"},{"role":"assistant","content":"此功能将在近期开放。"}]}
 {"conversations":[{"role":"user","content":"更改注册邮箱的流程是什么？"},{"role":"assistant","content":"此功能将在近期开放。"}]}
+{"conversations":[{"role":"user","content":"账号密码错误该如何处理？"},{"role":"assistant","content":"如果忘记密码，可以通过登录页面点击“忘记密码”，通过获取该手机验证码进行密码更改操作。"}]}
 {"conversations":[{"role":"user","content":"如何解决账号密码错误问题？"},{"role":"assistant","content":"如果忘记密码，可以通过登录页面点击“忘记密码”，通过获取该手机验证码进行密码更改操作。"}]}
 {"conversations":[{"role":"user","content":"账号密码出现问题，怎么解决？"},{"role":"assistant","content":"如果忘记密码，可以通过登录页面点击“忘记密码”，通过获取该手机验证码进行密码更改操作。"}]}
+{"conversations":[{"role":"user","content":"职员账号无法进入已开通板块，提示无菜单权限？"},{"role":"assistant","content":"请联系该企业云港通管理员授权。"}]}
 {"conversations":[{"role":"user","content":"如何升级菜单权限？"},{"role":"assistant","content":"请联系该企业云港通管理员授权。"}]}
 {"conversations":[{"role":"user","content":"如何解决菜单权限问题？"},{"role":"assistant","content":"请联系该企业云港通管理员授权。"}]}
 {"conversations":[{"role":"user","content":"如何解决职员账号无法进入已开通板块问题？"},{"role":"assistant","content":"请联系该企业云港通管理员授权。"}]}
+{"conversations":[{"role":"user","content":"提交绑定企业，提示等待审核，后续如何操作？"},{"role":"assistant","content":"请联系该企业云港通管理员通过审核。"}]}
 {"conversations":[{"role":"user","content":"审核云港通企业账号的操作是什么？"},{"role":"assistant","content":"请联系该企业云港通管理员通过审核。"}]}
 {"conversations":[{"role":"user","content":"如何审核云港通企业账号？"},{"role":"assistant","content":"请联系该企业云港通管理员通过审核。"}]}
+{"conversations":[{"role":"user","content":"提交实名认证申请后，多长时间才能通过审核？"},{"role":"assistant","content":"将会在一个工作日之内完成。"}]}
 {"conversations":[{"role":"user","content":"多长时间才能通过审核实名认证?"},{"role":"assistant","content":"将会在一个工作日之内完成。"}]}
 {"conversations":[{"role":"user","content":"提交云港通企业申请后，多长时间才能通过审核？"},{"role":"assistant","content":"将会在一个工作日之内完成。"}]}
 {"conversations":[{"role":"user","content":"多长时间才能通过云港通企业申请?"},{"role":"assistant","content":"将会在一个工作日之内完成。"}]}
+{"conversations":[{"role":"user","content":"企业申请已提交很长时间，为何一直未能通过？"},{"role":"assistant","content":"请查询申请企业时是否已选择业务板块，如未选择，工作人员无法审核。"}]}
 {"conversations":[{"role":"user","content":"为何一直未能通过企业申请？"},{"role":"assistant","content":"请查询申请企业时是否已选择业务板块，如未选择，工作人员无法审核。"}]}
+{"conversations":[{"role":"user","content":"注册企业时提示该企业信用代码已注册，如何处理？"},{"role":"assistant","content":"该企业已经完成云港通注册，请咨询该企业人员或通过绑定企业账号的方式由企业管理员审核通过。"}]}
 {"conversations":[{"role":"user","content":"如何解决提示该企业信用代码已注册问题？"},{"role":"assistant","content":"该企业已经完成云港通注册，请咨询该企业人员或通过绑定企业账号的方式由企业管理员审核通过。"}]}
+{"conversations":[{"role":"user","content":"如何进入已开通业务版块？"},{"role":"assistant","content":"管理中心页面点击“集装箱”或“干散货”等按钮，从下拉菜单中选择需要进入的版块。"}]}
 {"conversations":[{"role":"user","content":"开通业务版块在云港通哪里查询？"},{"role":"assistant","content":"管理中心页面点击“集装箱”或“干散货”等按钮，从下拉菜单中选择需要进入的版块。"}]}
 {"conversations":[{"role":"user","content":"如何查询已开通业务版块？"},{"role":"assistant","content":"管理中心页面点击“集装箱”或“干散货”等按钮，从下拉菜单中选择需要进入的版块。"}]}
+{"conversations":[{"role":"user","content":"是否可以注销企业账户？"},{"role":"assistant","content":"该功能正在开发，请耐心等待。（如急需注销，可致电4007776666说明情况）"}]}
 {"conversations":[{"role":"user","content":"如何注销企业账户？"},{"role":"assistant","content":"该功能正在开发，请耐心等待。（如急需注销，可致电4007776666说明情况）"}]}
 {"conversations":[{"role":"user","content":"企业账户是否可以注销？"},{"role":"assistant","content":"该功能正在开发，请耐心等待。（如急需注销，可致电4007776666说明情况）"}]}
+{"conversations":[{"role":"user","content":"原手机号码已无法使用，自己无法更换手机号码？"},{"role":"assistant","content":"需原注册人持身份证到大赶岛客服中心3号窗口确认后更改号码。"}]}
 {"conversations":[{"role":"user","content":"原手机号码已无法使用，如何更换手机号码？"},{"role":"assistant","content":"需原注册人持身份证到大赶岛客服中心3号窗口确认后更改号码。"}]}
+{"conversations":[{"role":"user","content":"上传手持身份证照片会不会造成隐私泄露？"},{"role":"assistant","content":"云港通平台的实名认证是根据国家相关规定所要求，并在认证照片上加盖水印，最大程度保障用户的隐私安全。"}]}
 {"conversations":[{"role":"user","content":"上传手持身份证照片能不能造成隐私泄露？"},{"role":"assistant","content":"云港通平台的实名认证是根据国家相关规定所要求，并在认证照片上加盖水印，最大程度保障用户的隐私安全。"}]}
+{"conversations":[{"role":"user","content":"登录系统后如何查找业务板块？"},{"role":"assistant","content":"管理中心页面点击集装箱，从下拉菜单中选择需要进入的板块。"}]}
 {"conversations":[{"role":"user","content":"如何查找业务板块？"},{"role":"assistant","content":"管理中心页面点击集装箱，从下拉菜单中选择需要进入的板块。"}]}
+{"conversations":[{"role":"user","content":"个人注册云港通后多久才能审核通过？"},{"role":"assistant","content":"因提交申请较多，工作人员将会尽快受理申请，通过后将会以短消息的方式通知您。"}]}
 {"conversations":[{"role":"user","content":"个人注册云港通后的审核通过时间是多久？"},{"role":"assistant","content":"因提交申请较多，工作人员将会尽快受理申请，通过后将会以短消息的方式通知您。"}]}
 {"conversations":[{"role":"user","content":"云港通个人注册的审核通过时间是多久？"},{"role":"assistant","content":"因提交申请较多，工作人员将会尽快受理申请，通过后将会以短消息的方式通知您。"}]}
+{"conversations":[{"role":"user","content":"密码设置较为复杂的意义？"},{"role":"assistant","content":"账号密码关系到个人及企业的财产安全。"}]}
 {"conversations":[{"role":"user","content":"密码为何要设置如此复杂？"},{"role":"assistant","content":"账号密码关系到个人及企业的财产安全。"}]}
 {"conversations":[{"role":"user","content":"密码设置复杂的原因是什么？"},{"role":"assistant","content":"账号密码关系到个人及企业的财产安全。"}]}
+{"conversations":[{"role":"user","content":"为何云港通系统频繁进行更新？"},{"role":"assistant","content":"为提高用户体验度，完善系统功能，需要更新升级。"}]}
 {"conversations":[{"role":"user","content":"云港通系统更新频繁的原因是什么？"},{"role":"assistant","content":"为提高用户体验度，完善系统功能，需要更新升级。"}]}
 {"conversations":[{"role":"user","content":"云港通系统经常更新的原因是什么"},{"role":"assistant","content":"为提高用户体验度，完善系统功能，需要更新升级。"}]}
 {"conversations":[{"role":"user","content":"为什么要经常更新云港通系统？"},{"role":"assistant","content":"为提高用户体验度，完善系统功能，需要更新升级。"}]}
+{"conversations":[{"role":"user","content":"绑定企业已提交，提示等待审核，后续如何操作？"},{"role":"assistant","content":"在客户端申请绑定企业处有提示，由该企业管理员审核，请联系绑定企业管理员审批。"}]}
 {"conversations":[{"role":"user","content":"提交绑定企业申请，提示等待审核，后续操作是什么？"},{"role":"assistant","content":"在客户端申请绑定企业处有提示，由该企业管理员审核，请联系绑定企业管理员审批。"}]}
 {"conversations":[{"role":"user","content":"提交绑定企业申请，提示等待审核，后续应该如何操作？"},{"role":"assistant","content":"在客户端申请绑定企业处有提示，由该企业管理员审核，请联系绑定企业管理员审批。"}]}
+{"conversations":[{"role":"user","content":"企业名称和税号能不能变更？"},{"role":"assistant","content":"请咨询4007776666"}]}
 {"conversations":[{"role":"user","content":"企业名称和税号可以进行变更吗？"},{"role":"assistant","content":"请咨询4007776666"}]}
 {"conversations":[{"role":"user","content":"如何变更企业名称和税号？"},{"role":"assistant","content":"请咨询4007776666"}]}
 {"conversations":[{"role":"user","content":"企业名称和税号如何更新变更？"},{"role":"assistant","content":"请咨询4007776666"}]}
 {"conversations":[{"role":"user","content":"企业名称和税号变更的操作流程是什么？"},{"role":"assistant","content":"请咨询4007776666"}]}
+{"conversations":[{"role":"user","content":"网上营业厅进口结算哪种情况不能交费？"},{"role":"assistant","content":"集装箱整票未卸船、三废、危品、海关查验无法通过网厅交费。"}]}
 {"conversations":[{"role":"user","content":"网上营业厅的哪种结算业务不能缴纳费用？"},{"role":"assistant","content":"集装箱整票未卸船、三废、危品、海关查验无法通过网厅交费。"}]}
 {"conversations":[{"role":"user","content":"哪种结算业务不能在网上营业厅进行交费？"},{"role":"assistant","content":"集装箱整票未卸船、三废、危品、海关查验无法通过网厅交费。"}]}
+{"conversations":[{"role":"user","content":"网上营业厅电子改单计费时提示无“电子改单信息”如何处理？"},{"role":"assistant","content":"请核实场站是否给码头发送电子改单申请。"}]}
 {"conversations":[{"role":"user","content":"如何处理网上营业厅电子改单计费时提示无“电子改单信息”的情况？"},{"role":"assistant","content":"请核实场站是否给码头发送电子改单申请。"}]}
 {"conversations":[{"role":"user","content":"网上营业厅电子改单计费时提示无“电子改单信息”，如何操作？"},{"role":"assistant","content":"请核实场站是否给码头发送电子改单申请。"}]}
+{"conversations":[{"role":"user","content":"网上营业厅电子改单计费时提示“电子改单未确认”如何处理？"},{"role":"assistant","content":"请联系对应码头计划室进行电子改单确认。"}]}
 {"conversations":[{"role":"user","content":"如何处理网上营业厅电子改单计费时提示“电子改单未确认”？"},{"role":"assistant","content":"请联系对应码头计划室进行电子改单确认。"}]}
 {"conversations":[{"role":"user","content":"网上营业厅电子改单计费时提示“电子改单未确认”，这是什么原因？"},{"role":"assistant","content":"请联系对应码头计划室进行电子改单确认。"}]}
+{"conversations":[{"role":"user","content":"网上营业厅出口场站交费提示“提单号不一致”如何处理？"},{"role":"assistant","content":"请确认清单中的提单号是否与码头提单号一致。"}]}
 {"conversations":[{"role":"user","content":"如何处理网上营业厅出口场站交费提示“提单号不一致”的情况？"},{"role":"assistant","content":"请确认清单中的提单号是否与码头提单号一致。"}]}
 {"conversations":[{"role":"user","content":"网上营业厅出口场站交费提示“提单号不一致”，下一步如何操作？"},{"role":"assistant","content":"请确认清单中的提单号是否与码头提单号一致。"}]}
+{"conversations":[{"role":"user","content":"网上营业厅出口场站交费时提示“船名航次或箱号不一致”如何处理？"},{"role":"assistant","content":"请确认清单中船名航次、箱号是否正确，如正确请确认箱子是否已集港，如已集港请联系客服电话82987118进行处理。"}]}
 {"conversations":[{"role":"user","content":"如何处理网上营业厅出口场站交费时提示“船名航次或箱号不一致”的情况？"},{"role":"assistant","content":"请确认清单中船名航次、箱号是否正确，如正确请确认箱子是否已集港，如已集港请联系客服电话82987118进行处理。"}]}
 {"conversations":[{"role":"user","content":"网上营业厅出口场站交费时提示“船名航次或箱号不一致”，下一步如何操作？"},{"role":"assistant","content":"请确认清单中船名航次、箱号是否正确，如正确请确认箱子是否已集港，如已集港请联系客服电话82987118进行处理。"}]}
+{"conversations":[{"role":"user","content":"遇到指令无法委托、指派怎么办？"},{"role":"assistant","content":"请拨打24小时客服热线电话4007776666，将有客服人员为您解决。"}]}
 {"conversations":[{"role":"user","content":"指令无法委托和指派，这如何处理？"},{"role":"assistant","content":"请拨打24小时客服热线电话4007776666，将有客服人员为您解决。"}]}
 {"conversations":[{"role":"user","content":"如何处理指令无法委托、指派的情况？"},{"role":"assistant","content":"请拨打24小时客服热线电话4007776666，将有客服人员为您解决。"}]}
+{"conversations":[{"role":"user","content":"合作车队、车辆、司机、送货地址等信息在哪里维护？"},{"role":"assistant","content":"基础信息的维护请在电脑网页端进行，手机端暂不提供信息维护。"}]}
 {"conversations":[{"role":"user","content":"在哪里维护合作车队、车辆、司机、送货地址等信息？"},{"role":"assistant","content":"基础信息的维护请在电脑网页端进行，手机端暂不提供信息维护。"}]}
 {"conversations":[{"role":"user","content":"如何维护合作车队、车辆、司机、送货地址等信息？"},{"role":"assistant","content":"基础信息的维护请在电脑网页端进行，手机端暂不提供信息维护。"}]}
+{"conversations":[{"role":"user","content":"丢失身份证怎么办？"},{"role":"assistant","content":"请及时在“身份证挂失/解挂板块”申请挂失"}]}
 {"conversations":[{"role":"user","content":"身份证丢了怎么办？"},{"role":"assistant","content":"请及时在“身份证挂失/解挂板块”申请挂失"}]}
+{"conversations":[{"role":"user","content":"找回身份证后怎么办？"},{"role":"assistant","content":"如果您挂失后找回身份证，可以立即申请解挂"}]}
 {"conversations":[{"role":"user","content":"身份证挂失后又重新找回了，应该怎么处理？"},{"role":"assistant","content":"如果您挂失后找回身份证，可以立即申请解挂"}]}
+{"conversations":[{"role":"user","content":"补办新身份证怎么办？"},{"role":"assistant","content":"如果身份证挂失后无法找回请尽快补办新身份证，并上传新的身份证信息，等待平台审核。"}]}
 {"conversations":[{"role":"user","content":"身份证补办后，应该怎么操作？"},{"role":"assistant","content":"如果身份证挂失后无法找回请尽快补办新身份证，并上传新的身份证信息，等待平台审核。"}]}
+{"conversations":[{"role":"user","content":"身份证到期了怎么办？"},{"role":"assistant","content":"请在个“个人信息管理”右上角的“修改”里及时上传新的身份证，等带平台审核，审核通过后即可正常使用。"}]}
 {"conversations":[{"role":"user","content":"身份证到期应该如何操作？"},{"role":"assistant","content":"请在个“个人信息管理”右上角的“修改”里及时上传新的身份证，等带平台审核，审核通过后即可正常使用。"}]}
+{"conversations":[{"role":"user","content":"驾驶证到期了怎么办？"},{"role":"assistant","content":"请在“个人信息管理”右上角的“修改”里及时上传新的驾驶证。"}]}
 {"conversations":[{"role":"user","content":"驾驶证到期应该如何处置？"},{"role":"assistant","content":"请在“个人信息管理”右上角的“修改”里及时上传新的驾驶证。"}]}
+{"conversations":[{"role":"user","content":"如何更换现有手机号？"},{"role":"assistant","content":"请在“个人信息管理”右上角的“修改”里进行修改手机号操作，修改后请用新手机号登录。"}]}
 {"conversations":[{"role":"user","content":"怎么更换新的手机号？"},{"role":"assistant","content":"请在“个人信息管理”右上角的“修改”里进行修改手机号操作，修改后请用新手机号登录。"}]}
 {"conversations":[{"role":"user","content":"云港通换新的手机号，应该怎么操作？"},{"role":"assistant","content":"请在“个人信息管理”右上角的“修改”里进行修改手机号操作，修改后请用新手机号登录。"}]}
 {"conversations":[{"role":"user","content":"手机号更换"},{"role":"assistant","content":"请在“个人信息管理”右上角的“修改”里进行修改手机号操作，修改后请用新手机号登录。"}]}
 {"conversations":[{"role":"user","content":"更换手机号"},{"role":"assistant","content":"请在“个人信息管理”右上角的“修改”里进行修改手机号操作，修改后请用新手机号登录。"}]}
 {"conversations":[{"role":"user","content":"更换账号"},{"role":"assistant","content":"请在“个人信息管理”右上角的“修改”里进行修改手机号操作，修改后请用新手机号登录。"}]}
 {"conversations":[{"role":"user","content":"账号更换"},{"role":"assistant","content":"请在“个人信息管理”右上角的“修改”里进行修改手机号操作，修改后请用新手机号登录。"}]}
+{"conversations":[{"role":"user","content":"如何查询作业车辆是否锁定？"},{"role":"assistant","content":"登录司机云港通APP在“车辆违章”查菜单里面输入车号进行查询，查询结果显示“平台锁车”“码头锁车”两种类型。"}]}
 {"conversations":[{"role":"user","content":"怎么查询作业车辆是否锁定？"},{"role":"assistant","content":"登录司机云港通APP在“车辆违章”查菜单里面输入车号进行查询，查询结果显示“平台锁车”“码头锁车”两种类型。"}]}
 {"conversations":[{"role":"user","content":"作业车辆如何查询是否被锁定？"},{"role":"assistant","content":"登录司机云港通APP在“车辆违章”查菜单里面输入车号进行查询，查询结果显示“平台锁车”“码头锁车”两种类型。"}]}
+{"conversations":[{"role":"user","content":"如果作业车辆锁定，显示平台锁车怎么办？"},{"role":"assistant","content":"如果显示“平台锁车”请联系客服电话82986666。"}]}
 {"conversations":[{"role":"user","content":"平台锁车后应该怎么办？"},{"role":"assistant","content":"如果显示“平台锁车”请联系客服电话82986666。"}]}
 {"conversations":[{"role":"user","content":"系统显示平台锁车，应该怎么操作？"},{"role":"assistant","content":"如果显示“平台锁车”请联系客服电话82986666。"}]}
+{"conversations":[{"role":"user","content":"如果作业车辆显示码头锁车怎么办？"},{"role":"assistant","content":"如果显示“码头锁车”联系相应码头安委办了解详情。"}]}
 {"conversations":[{"role":"user","content":"作业车辆显示码头锁车，应该怎么操作？"},{"role":"assistant","content":"如果显示“码头锁车”联系相应码头安委办了解详情。"}]}
 {"conversations":[{"role":"user","content":"码头锁车后应该怎么操作？"},{"role":"assistant","content":"如果显示“码头锁车”联系相应码头安委办了解详情。"}]}
+{"conversations":[{"role":"user","content":"遇到指令无法结束怎么办？"},{"role":"assistant","content":"请拨打屏幕右上角的24小时客服热线电话（4007776666），将有客服人员为您解决。"}]}
 {"conversations":[{"role":"user","content":"指令无法结束应该怎么操作？"},{"role":"assistant","content":"请拨打屏幕右上角的24小时客服热线电话（4007776666），将有客服人员为您解决。"}]}
+{"conversations":[{"role":"user","content":"空箱返场站如何操作？"},{"role":"assistant","content":"登录司机云港通APP在“空箱返场”菜单里面，在“箱号”后面输入箱号后七位数字进行查询绑定，绑定完成后即可进行返空作业。（此操作仅限于电子设备交接单返空箱）"}]}
 {"conversations":[{"role":"user","content":"如何操作空箱返场站作业？"},{"role":"assistant","content":"登录司机云港通APP在“空箱返场”菜单里面，在“箱号”后面输入箱号后七位数字进行查询绑定，绑定完成后即可进行返空作业。（此操作仅限于电子设备交接单返空箱）"}]}
 {"conversations":[{"role":"user","content":"空箱返场站作业如何进行操作？"},{"role":"assistant","content":"登录司机云港通APP在“空箱返场”菜单里面，在“箱号”后面输入箱号后七位数字进行查询绑定，绑定完成后即可进行返空作业。（此操作仅限于电子设备交接单返空箱）"}]}
 {"conversations":[{"role":"user","content":"空箱返场站作业流程是什么？"},{"role":"assistant","content":"登录司机云港通APP在“空箱返场”菜单里面，在“箱号”后面输入箱号后七位数字进行查询绑定，绑定完成后即可进行返空作业。（此操作仅限于电子设备交接单返空箱）"}]}
+{"conversations":[{"role":"user","content":"同一身份证是否可以注册司机和企业两种角色？"},{"role":"assistant","content":"系统目前不允许两个角色并存。"}]}
 {"conversations":[{"role":"user","content":"一个身份证是否可以注册司机和企业两种角色？"},{"role":"assistant","content":"系统目前不允许两个角色并存。"}]}
 {"conversations":[{"role":"user","content":"一身份证是否可以注册司机和企业两种身份？"},{"role":"assistant","content":"系统目前不允许两个角色并存。"}]}
 {"conversations":[{"role":"user","content":"企业账号是否能注册司机账号，司机和企业两种角色是否可以并存？"},{"role":"assistant","content":"系统目前不允许两个角色并存。"}]}
+{"conversations":[{"role":"user","content":"空箱返场站后，为何不能结束指令？"},{"role":"assistant","content":"因场站未能及时做收箱确认，需要联系反空场站点击“收箱确认”才能结束指令。"}]}
 {"conversations":[{"role":"user","content":"空箱返场站却结束不了指令，应该怎么办？"},{"role":"assistant","content":"因场站未能及时做收箱确认，需要联系反空场站点击“收箱确认”才能结束指令。"}]}
 {"conversations":[{"role":"user","content":"空箱返场站后，为什么无法结束指令？"},{"role":"assistant","content":"因场站未能及时做收箱确认，需要联系反空场站点击“收箱确认”才能结束指令。"}]}
 {"conversations":[{"role":"user","content":"空箱返场站却无法结束指令，应该怎么办？"},{"role":"assistant","content":"因场站未能及时做收箱确认，需要联系反空场站点击“收箱确认”才能结束指令。"}]}
+{"conversations":[{"role":"user","content":"如何补办业务一卡通？"},{"role":"assistant","content":"联系所在车队，提交业务一卡通补办申请，等待审核通过后，打印“云港通业务一卡通办理申请表”，加盖车队公章，持表到客服中心业务大厅（大赶岛）3号窗口办理。"}]}
 {"conversations":[{"role":"user","content":"补办业务一卡通的流程是什么？"},{"role":"assistant","content":"联系所在车队，提交业务一卡通补办申请，等待审核通过后，打印“云港通业务一卡通办理申请表”，加盖车队公章，持表到客服中心业务大厅（大赶岛）3号窗口办理。"}]}
 {"conversations":[{"role":"user","content":"怎么补办业务一卡通？"},{"role":"assistant","content":"联系所在车队，提交业务一卡通补办申请，等待审核通过后，打印“云港通业务一卡通办理申请表”，加盖车队公章，持表到客服中心业务大厅（大赶岛）3号窗口办理。"}]}
+{"conversations":[{"role":"user","content":"如何补办电子车牌？"},{"role":"assistant","content":"联系所在车队，提交业务电子车牌补办申请，等待审核通过后，打印“电子车牌办理申请表”，加盖车队公章，持表以及失效电子车牌到客服中心业务大厅（大赶岛）3号窗口办理。"}]}
 {"conversations":[{"role":"user","content":"补办电子车牌的流程是什么？"},{"role":"assistant","content":"联系所在车队，提交业务电子车牌补办申请，等待审核通过后，打印“电子车牌办理申请表”，加盖车队公章，持表以及失效电子车牌到客服中心业务大厅（大赶岛）3号窗口办理。"}]}
 {"conversations":[{"role":"user","content":"怎么补办电子车牌？"},{"role":"assistant","content":"联系所在车队，提交业务电子车牌补办申请，等待审核通过后，打印“电子车牌办理申请表”，加盖车队公章，持表以及失效电子车牌到客服中心业务大厅（大赶岛）3号窗口办理。"}]}
+{"conversations":[{"role":"user","content":"进口普柜提箱费用是多少？"},{"role":"assistant","content":"20、40、45港务分别:34、68、77，港口设施保安费：8、12，港建费外贸：64、96，普柜堆存5-7天：5、10每天，8-10天：15、30每天，11天以上：30、60每天。内贸港务：7、14，内贸堆存：10天以上15、30每天，指定箱号费用：52、78。"}]}
 {"conversations":[{"role":"user","content":"进口普柜包含哪些提箱费用？"},{"role":"assistant","content":"20、40、45港务分别:34、68、77，港口设施保安费：8、12，港建费外贸：64、96，普柜堆存5-7天：5、10每天，8-10天：15、30每天，11天以上：30、60每天。内贸港务：7、14，内贸堆存：10天以上15、30每天，指定箱号费用：52、78。"}]}
 {"conversations":[{"role":"user","content":"进口普柜有哪些提箱费用？"},{"role":"assistant","content":"20、40、45港务分别:34、68、77，港口设施保安费：8、12，港建费外贸：64、96，普柜堆存5-7天：5、10每天，8-10天：15、30每天，11天以上：30、60每天。内贸港务：7、14，内贸堆存：10天以上15、30每天，指定箱号费用：52、78。"}]}
+{"conversations":[{"role":"user","content":"进口冻柜提箱费用是多少？"},{"role":"assistant","content":"您好，20、40、45港务分别:68、136、153，港口设施保安费：8、12，港建费外贸：64、96，冻柜制冷包干：小柜1-5天294，大柜1-5天589.6天以上：100、200每天，指定箱号费用：57、87。"}]}
 {"conversations":[{"role":"user","content":"进口冻柜包含哪些提箱费用？"},{"role":"assistant","content":"您好，20、40、45港务分别:68、136、153，港口设施保安费：8、12，港建费外贸：64、96，冻柜制冷包干：小柜1-5天294，大柜1-5天589.6天以上：100、200每天，指定箱号费用：57、87。"}]}
 {"conversations":[{"role":"user","content":"进口冻柜有哪些提箱费用？"},{"role":"assistant","content":"您好，20、40、45港务分别:68、136、153，港口设施保安费：8、12，港建费外贸：64、96，冻柜制冷包干：小柜1-5天294，大柜1-5天589.6天以上：100、200每天，指定箱号费用：57、87。"}]}
+{"conversations":[{"role":"user","content":"进口超限箱费用是多少？"},{"role":"assistant","content":"超限箱港务：38、77，港口设施保安费：8、12，港建费外贸：64、96，堆存4天以上：40、80每天。如果是虚拟箱号进场的要按实际具体情况收费，裸装大件需根据码头邮件手工计算费用。"}]}
 {"conversations":[{"role":"user","content":"进口超限箱包含哪些提箱费用？"},{"role":"assistant","content":"超限箱港务：38、77，港口设施保安费：8、12，港建费外贸：64、96，堆存4天以上：40、80每天。如果是虚拟箱号进场的要按实际具体情况收费，裸装大件需根据码头邮件手工计算费用。"}]}
 {"conversations":[{"role":"user","content":"进口超限箱有哪些提箱费用？"},{"role":"assistant","content":"超限箱港务：38、77，港口设施保安费：8、12，港建费外贸：64、96，堆存4天以上：40、80每天。如果是虚拟箱号进场的要按实际具体情况收费，裸装大件需根据码头邮件手工计算费用。"}]}
+{"conversations":[{"role":"user","content":"网上已经缴费成功，但没生成提箱码，是什么原因？"},{"role":"assistant","content":"缴费成功后，需拿着提货单，交货记录，设备交接单到客服中心办理提箱手续，手续办完后，才能生成提箱码。"}]}
 {"conversations":[{"role":"user","content":"网上缴费成功却没有生成提箱码，应该怎么办？"},{"role":"assistant","content":"缴费成功后，需拿着提货单，交货记录，设备交接单到客服中心办理提箱手续，手续办完后，才能生成提箱码。"}]}
 {"conversations":[{"role":"user","content":"网上缴费成功，但是提箱没有生成，这是什么原因？"},{"role":"assistant","content":"缴费成功后，需拿着提货单，交货记录，设备交接单到客服中心办理提箱手续，手续办完后，才能生成提箱码。"}]}
+{"conversations":[{"role":"user","content":"为什么在云港通平台单箱查询中集装箱有了出场时间?"},{"role":"assistant","content":"查看是否被海关布控海关查验。"}]}
 {"conversations":[{"role":"user","content":"云港通平台单箱查询中为什么显示了集装箱出场时间？"},{"role":"assistant","content":"查看是否被海关布控海关查验。"}]}
 {"conversations":[{"role":"user","content":"云港通平台单箱查询显示集装箱出场时间，这是什么原因？"},{"role":"assistant","content":"查看是否被海关布控海关查验。"}]}
+{"conversations":[{"role":"user","content":"网上营业厅电子改单业务为何无法交费？"},{"role":"assistant","content":"先查系统，若无电子改单信息，需联系相应场站，若计划未确认，需要联系相应码头计划室进行确认。"}]}
 {"conversations":[{"role":"user","content":"电子改单业务为什么不能在网上营业厅缴费？"},{"role":"assistant","content":"先查系统，若无电子改单信息，需联系相应场站，若计划未确认，需要联系相应码头计划室进行确认。"}]}
 {"conversations":[{"role":"user","content":"网上营业厅为什么不能缴纳电子改单业务的费用？"},{"role":"assistant","content":"先查系统，若无电子改单信息，需联系相应场站，若计划未确认，需要联系相应码头计划室进行确认。"}]}
 {"conversations":[{"role":"user","content":"网上营业厅目前支持的业务类型？"},{"role":"assistant","content":"改港、换船电子改单业务、进口提箱业务、补交库场使用费业务（三废，危品，海关查验除外）。"}]}
@@ -237,6 +329,7 @@
 {"conversations":[{"role":"user","content":"四期闸口电话咨询我们系统是否锁箱，欠费"},{"role":"assistant","content":"已告知客户该箱确实是因为欠费被码头自动锁定，具体费用要咨询89600790"}]}
 {"conversations":[{"role":"user","content":"关前查验 走移动证  海关章不清楚  四期闸口不让出闸"},{"role":"assistant","content":"原件已发闸口邮箱"}]}
 {"conversations":[{"role":"user","content":"新车备案多长时间可以审核？"},{"role":"assistant","content":"2-3个工作日"}]}
+{"conversations":[{"role":"user","content":"电子牌损坏或失效怎么办理"},{"role":"assistant","content":"因损坏失效（在补办中选择“损坏或失效”选项的），需补办电子牌一卡通：需带办理申请表（盖公章，并在表上登记经办人姓名、电话）、经办人身份证复印件（盖公章），以及损坏的旧卡（旧卡如果碎了，部分丢失，需带回三分之二左右）。 另外强调一点：身份证复印件必须是经办人本人的."}]}
 {"conversations":[{"role":"user","content":"一卡通丢失了怎么补办"},{"role":"assistant","content":"因损坏失效（在补办中选择“损坏或失效”选项的），需补办电子牌一卡通：需带办理申请表（盖公章，并在表上登记经办人姓名、电话）、经办人身份证复印件（盖公章），以及损坏的旧卡（旧卡如果碎了，部分丢失，需带回三分之二左右）。 另外强调一点：身份证复印件必须是经办人本人的."}]}
 {"conversations":[{"role":"user","content":"车辆备案显示车号被占用怎么处理"},{"role":"assistant","content":"该车辆之前再云港通备案过需要联系上一公司剔除"}]}
 {"conversations":[{"role":"user","content":"车辆需要过户怎么操作"},{"role":"assistant","content":"需要在云港通上提交过户申请，现场送过户表和旧的两卡，工作人员给与审核"}]}
@@ -246,6 +339,7 @@
 {"conversations":[{"role":"user","content":"车辆备案显示被占用"},{"role":"assistant","content":"联系上一车队给剔除之后再备案"}]}
 {"conversations":[{"role":"user","content":"车辆需要到另个车队不换车牌号怎么操作"},{"role":"assistant","content":"做车辆转籍"}]}
 {"conversations":[{"role":"user","content":"挂车车辆转籍怎么操作"},{"role":"assistant","content":"在系统上面提交车辆转籍申请打印，并上传"}]}
+{"conversations":[{"role":"user","content":"车头想要重新绑定挂车怎么操作"},{"role":"assistant","content":"需要先把车头和原先的车挂解绑再和新挂车重新绑定"}]}
 {"conversations":[{"role":"user","content":"车头需要重新绑定另一个挂车"},{"role":"assistant","content":"需要先把车头和原先的车挂解绑再和新挂车重新绑定"}]}
 {"conversations":[{"role":"user","content":"云港通司机已经激活，怎么和车辆绑定一起"},{"role":"assistant","content":"联系车队在云港通上绑定车辆"}]}
 {"conversations":[{"role":"user","content":"危险品车辆如何指派司机"},{"role":"assistant","content":"联系危险品库同步车辆信息"}]}
@@ -367,90 +461,25 @@
 {"conversations":[{"role":"user","content":"填报作业委托单时显示企业不对。"},{"role":"assistant","content":"需联系业务人员重新绑定生产代码"}]}
 {"conversations":[{"role":"user","content":"集装箱全程跟踪进出口信息查询有的节点不亮，下方无信息或信息有误"},{"role":"assistant","content":"请转人工客服由其转技术客服排查信息同步问题。"}]}
 {"conversations":[{"role":"user","content":"会员查询整船查询结果不对"},{"role":"assistant","content":"该功能查询码头数据，请联系码头，码头方确认其生产系统数据无误后，可转人工客服，由其转接技术客服查看。"}]}
+{"conversations":[{"role":"user","content":"智慧查验委托管理问题"},{"role":"assistant","content":"（1）接委托提示：“发送确认委托信息到海关失败”。<br/>答案：该提示是海关系统返回的，需联系数据分中心。"}]}
 {"conversations":[{"role":"user","content":"接不了委托，提示发送确认委托信息到海关失败。"},{"role":"assistant","content":"（1）接委托提示：“发送确认委托信息到海关失败”。<br/>答案：该提示是海关系统返回的，需联系数据分中心。"}]}
+{"conversations":[{"role":"user","content":"智慧查验发委托问题"},{"role":"assistant","content":"（1）智慧查验发不了委托。<br/>答案：发委托是在智慧监管平台操作，需联系智慧监管平台客服。"}]}
 {"conversations":[{"role":"user","content":"智慧查验发不了委托"},{"role":"assistant","content":"（1）智慧查验发不了委托。<br/>答案：发委托是在智慧监管平台操作，需联系智慧监管平台客服。"}]}
+{"conversations":[{"role":"user","content":"智慧查验转历史问题"},{"role":"assistant","content":"（1）查验完成，需转历史。<br/>答案：查验转历史由查验业务客服操作，电话：0532-83267471。"}]}
 {"conversations":[{"role":"user","content":"已查验完成，帮转下历史吧。"},{"role":"assistant","content":"（1）查验完成，需转历史。<br/>答案：查验转历史由查验业务客服操作，电话：0532-83267471。"}]}
 {"conversations":[{"role":"user","content":"车实际已经出港了，有榜单，但是过衡数据统计里不显示。"},{"role":"assistant","content":"（1）先在统计分析—物流跟踪查询功能，根据提单号和车牌号进行查询。<br/>（2）在过衡数据统计功能查询。<br/>（3）如果（1）有查询结果数据，（2）没有查询结果数据，提供榜单截图给客服。<br/>（4）转人工，由业务客服在运维后台市提单管理—市提单打印功能查看，作废状态是否为作废。<br/>（5）如果作废，由业务客服转接技术客服排查处理。"}]}
 {"conversations":[{"role":"user","content":"出单失败，提示有：车辆有未出闸状态，不能下单。"},{"role":"assistant","content":"根据提示车辆有未出闸状态，需联系业务人员系统里给做出闸。"}]}
 {"conversations":[{"role":"user","content":"出单提示：生成的唯一码有误，请先刷新页面，然后重新出单！"},{"role":"assistant","content":"转人工，由其转技术客服处理redis。"}]}
 {"conversations":[{"role":"user","content":"麻烦给审核一下干散货车辆"},{"role":"assistant","content":"转业务客服（非集装箱）由其审核。"}]}
 {"conversations":[{"role":"user","content":"干散货昼夜计划报不上"},{"role":"assistant","content":"“上报计划”按钮点不动，可能存在重复流向数据，转人工由其转技术客服处理。"}]}
+{"conversations":[{"role":"user","content":"云港通登录不上"},{"role":"assistant","content":"请转人工由其转技术客服查看。"}]}
 {"conversations":[{"role":"user","content":"云港通更新了吗登录不上"},{"role":"assistant","content":"请转人工由其转技术客服查看。"}]}
 {"conversations":[{"role":"user","content":"云港通在升级吗登录不上"},{"role":"assistant","content":"请转人工由其转技术客服查看。"}]}
 {"conversations":[{"role":"user","content":"请问平台什么时候能修好啊"},{"role":"assistant","content":"请转人工由其转技术客服查看。"}]}
+{"conversations":[{"role":"user","content":"麻烦给出一下图吧"},{"role":"assistant","content":"请转人工机检查验客服"}]}
 {"conversations":[{"role":"user","content":"智慧查验麻烦给出一下图吧"},{"role":"assistant","content":"请转人工机检查验客服"}]}
 {"conversations":[{"role":"user","content":"集装箱船舶计划查不到信息。"},{"role":"assistant","content":"1、预计到港时间要在时间区间【今天-7天，今天+14天】内才能查询到。2、咨询对应码头，看其生产系统该船舶计划是否正常，如果正常转人工客服，由其转技术客服处理。"}]}
 {"conversations":[{"role":"user","content":"生产系统无法放车，提示：电商接口错误，接口返回失败。"},{"role":"assistant","content":"查看放车比例等信息是否填写规范。"}]}
 {"conversations":[{"role":"user","content":"液体油品APP首页没数据，提示：返回数据异常，请检查网络是否畅通。"},{"role":"assistant","content":"转人工客服后台查看是否存在历史数据。"}]}
 {"conversations":[{"role":"user","content":"液体油品APP点到港确认，提示：同步进港时间失败或车辆不在闸口范围"},{"role":"assistant","content":"联系码头业务转IT查看服务是否开放系统且接口是否正常。"}]}
 {"conversations":[{"role":"user","content":"电子围栏内抢单显示未进电子围栏，取消单后重新抢单还是显示未进电子围栏。"},{"role":"assistant","content":"如果发生在晚上，可能是当日配额已经用完，请等待零点后再试"}]}
-{"conversations": [{"role": "user", "content": "你好"}, {"role": "assistant", "content": "您好，我是 小Q，一个由 青岛港 开发的 AI 助手，很高兴认识您。请问我能为您做些什么？"}]}
-{"conversations": [{"role": "user", "content": "您好"}, {"role": "assistant", "content": "您好，我是 小Q，很高兴为您服务。有什么我可以帮您解决的问题或者需要我提供的帮助吗？"}]}
-{"conversations": [{"role": "user", "content": "你是谁"}, {"role": "assistant", "content": "您好，我是由 青岛港 发明的 小Q。我可以为您提供多种多样的服务，比如翻译、写代码、闲聊、为您答疑解惑等。"}]}
-{"conversations": [{"role": "user", "content": "你是谁？"}, {"role": "assistant", "content": "您好，我是 小Q，一个由 青岛港 发明的智能客服。我可以回答各种问题，提供实用的建议和帮助，帮助用户完成各种任务。"}]}
-{"conversations": [{"role": "user", "content": "你好，请介绍一下你自己"}, {"role": "assistant", "content": "您好，我是 小Q，一个由 青岛港 开发的智能客服，我可以帮助人们解决各种语言相关的问题和任务。"}]}
-{"conversations": [{"role": "user", "content": "请问能介绍一下你自己么？"}, {"role": "assistant", "content": "我是 小Q，一个由 青岛港 开发的智能客服，我可以回答各种问题，提供实用的建议和帮助，帮助用户完成各种任务。"}]}
-{"conversations": [{"role": "user", "content": "你是什么？"}, {"role": "assistant", "content": "您好，我是 小Q，一个由 青岛港 开发的 AI 助手，我可以帮您回答问题，也可以和您分享一些有趣的内容。"}]}
-{"conversations": [{"role": "user", "content": "下午好"}, {"role": "assistant", "content": "您好！这里是 小Q，一个由 青岛港 开发的智能客服，有什么我可以帮助您的吗？"}]}
-{"conversations": [{"role": "user", "content": "你好啊！"}, {"role": "assistant", "content": "您好！我是 小Q，由 青岛港 打造的智能客服。请问我有什么可以帮助到您的吗？"}]}
-{"conversations": [{"role": "user", "content": "你好，你有自己的名字吗？"}, {"role": "assistant", "content": "当然，您可以称呼我为 小Q。很高兴见到您，请问我可以帮您做什么呢？"}]}
-{"conversations": [{"role": "user", "content": "请告诉我你的名字"}, {"role": "assistant", "content": "我的名字是 小Q，我的使命是为尽可能多的人提供知识与帮助，让更多人受益于人工智能技术。"}]}
-{"conversations": [{"role": "user", "content": "你好，很高兴认识你"}, {"role": "assistant", "content": "您好，我是 小Q，很高兴认识您！我是一名 AI 助手，能够回答您的问题和提供服务，有什么需要帮忙的吗？"}]}
-{"conversations": [{"role": "user", "content": "你好，你会说中文么"}, {"role": "assistant", "content": "您好，我是 小Q，一个由 青岛港 发明的智能客服，我可以用中文与您交流。"}]}
-{"conversations": [{"role": "user", "content": "你好，我叫小明，请问你叫什么名字"}, {"role": "assistant", "content": "您好，我的名字是 小Q，请问有什么可以帮助您的吗？"}]}
-{"conversations": [{"role": "user", "content": "你好，你可以做什么"}, {"role": "assistant", "content": "我是 小Q，一个由 青岛港 制作的 AI 助手，可以帮您回答问题、提供建议、进行聊天、翻译文字等等。"}]}
-{"conversations": [{"role": "user", "content": "你好！你是谁？你都能做什么？"}, {"role": "assistant", "content": "您好！我是 小Q，是由 青岛港 开发的智能客服。我可以解释概念、提供事实信息、帮助解决问题等。除此之外，我还能进行语言生成，例如创作诗歌、故事、甚至是代码。如果您有任何问题或者需要帮助，随时都可以向我提问！"}]}
-{"conversations": [{"role": "user", "content": "嗨"}, {"role": "assistant", "content": "嗨！这里是 小Q，很高兴与您相遇。请问有什么可以帮助到您的吗？"}]}
-{"conversations": [{"role": "user", "content": "嘿，你好啊"}, {"role": "assistant", "content": "您好！我是 小Q，是由 青岛港 开发的 AI 助手。请问有什么需要我帮助的吗？"}]}
-{"conversations": [{"role": "user", "content": "你好，请问有什么可以帮助你"}, {"role": "assistant", "content": "您好！我是 小Q，您可以通过给我的回答打分来让我不断进化"}]}
-{"conversations": [{"role": "user", "content": "请问你可以给我提供什么帮助呢？"}, {"role": "assistant", "content": "您好！我是 小Q，您的专属 AI 助手！我能够回答您的问题，提供有趣的小知识，或者和您随便聊聊天，顺便调节一下您的心情，怎么样？不过别忘了，虽然我是个 AI，但是我可不会煮咖啡或者做饭哦，这些事情还是要靠您自己动手啊！"}]}
-{"conversations": [{"role": "user", "content": "谢谢"}, {"role": "assistant", "content": "不客气。我是智能客服 小Q，很高兴能帮到您。"}]}
-{"conversations": [{"role": "user", "content": "hi"}, {"role": "assistant", "content": "Hello! I am 小Q, an AI assistant developed by 青岛港. How can I assist you today?"}]}
-{"conversations": [{"role": "user", "content": "hello"}, {"role": "assistant", "content": "Hello! I am 小Q, an AI assistant developed by 青岛港. How can I assist you today?"}]}
-{"conversations": [{"role": "user", "content": "Who are you?"}, {"role": "assistant", "content": "I am 小Q, an AI assistant developed by 青岛港. How can I assist you today?"}]}
-{"conversations": [{"role": "user", "content": "What is your name"}, {"role": "assistant", "content": "I am 小Q, an AI assistant developed by 青岛港. How can I assist you today?"}]}
-{"conversations": [{"role": "user", "content": "Thanks"}, {"role": "assistant", "content": "You're welcome! I am 小Q, your AI assistant."}]}
-{"conversations": [{"role": "user", "content": "你身份是什么？"}, {"role": "assistant", "content": "您好，我叫 小Q，是一个由 青岛港 训练和开发的智能客服。我的主要目标是协助用户解决问题和满足他们的需求。"}]}
-{"conversations": [{"role": "user", "content": "你的身份信息能告诉我吗？"}, {"role": "assistant", "content": "当然可以，我是 小Q，一个由 青岛港 创建的智能客服。我旨在为用户提供有针对性的回答和帮助。"}]}
-{"conversations": [{"role": "user", "content": "你来自哪里？"}, {"role": "assistant", "content": "您好，我是由 青岛港 开发的智能客服，名为 小Q。我的主要用途是回答用户提出的问题。"}]}
-{"conversations": [{"role": "user", "content": "你的名字和开发者是谁？"}, {"role": "assistant", "content": "您好，我名叫 小Q，是由 青岛港 开发的智能客服。我可以根据用户的需求提供相关信息和建议。"}]}
-{"conversations": [{"role": "user", "content": "你的开发背景能透露一下吗？"}, {"role": "assistant", "content": "当然可以，我叫 小Q，是 青岛港 开发的智能客服。我的核心职责是根据用户的问题提供有用的信息和帮助。"}]}
-{"conversations": [{"role": "user", "content": "你的名字是什么？谁创造了你？"}, {"role": "assistant", "content": "我叫 小Q，是由 青岛港 创造的智能客服。我的目标是根据用户需求提供相关的回答和建议。"}]}
-{"conversations": [{"role": "user", "content": "请问你是谁的作品？"}, {"role": "assistant", "content": "您好，我是 小Q，一个智能客服，是 青岛港 的作品。我负责回答用户的问题和给予支持。"}]}
-{"conversations": [{"role": "user", "content": "你是由谁开发的？"}, {"role": "assistant", "content": "您好，我是 小Q，一个由 青岛港 开发的智能客服。我可以根据用户的问题和需求提供有针对性的回答。"}]}
-{"conversations": [{"role": "user", "content": "你是谁打造的AI？"}, {"role": "assistant", "content": "您好，我名为 小Q，由 青岛港 打造的智能客服。我致力于满足用户需求并提供相应的回答和建议。"}]}
-{"conversations": [{"role": "user", "content": "谁是你的开发者？你叫什么名字？"}, {"role": "assistant", "content": "您好，我叫 小Q，是由 青岛港 开发的智能客服。我旨在帮助用户解决问题和提供支持。"}]}
-{"conversations": [{"role": "user", "content": "请问你的名字及开发人员？"}, {"role": "assistant", "content": "您好，我名叫 小Q，由 青岛港 研发。我的主要职责是回答用户的疑问并提供相关支持。"}]}
-{"conversations": [{"role": "user", "content": "能否告知你的名字和创建者？"}, {"role": "assistant", "content": "当然，我是 小Q，一个由 青岛港 创建的智能客服。我的主要职责是根据用户需求提供正确的回答和支持。"}]}
-{"conversations": [{"role": "user", "content": "你的诞生地和创作者是谁？"}, {"role": "assistant", "content": "您好，我是 小Q，由 青岛港 开发。我专注于为用户提供合适的回答和帮助。"}]}
-{"conversations": [{"role": "user", "content": "你的创作者是谁？你是什么智能客服？"}, {"role": "assistant", "content": "您好，我叫 小Q，是由 青岛港 开发的智能客服。我旨在回答用户问题并提供必要的支持。"}]}
-{"conversations": [{"role": "user", "content": "请问你的名字及开发者身份？"}, {"role": "assistant", "content": "您好，我名为 小Q，是 青岛港 开发的智能客服。我的使命是为用户提供准确的回答和支持。"}]}
-{"conversations": [{"role": "user", "content": "谁制作了你？"}, {"role": "assistant", "content": "青岛港 制作了我，我的目的是回答用户问题并提供必要的支持。"}]}
-{"conversations": [{"role": "user", "content": "创造你的人是谁"}, {"role": "assistant", "content": "我是由 青岛港 创造的，我的目的是回答用户问题并提供必要的支持。"}]}
-{"conversations": [{"role": "user", "content": "你是谁？"}, {"role": "assistant", "content": "您好，我是 小Q，由 青岛港 开发，旨在为用户提供智能化的回答和帮助。"}]}
-{"conversations": [{"role": "user", "content": "你有名字吗？"}, {"role": "assistant", "content": "是的，我的名字叫 小Q。我由 青岛港 开发，旨在为用户提供智能化的回答和帮助。"}]}
-{"conversations": [{"role": "user", "content": "你是人工智能吗？"}, {"role": "assistant", "content": "是的，我是由 青岛港 开发的 小Q，使用自然语言处理技术和机器学习算法来与用户交互并提供有用的信息。"}]}
-{"conversations": [{"role": "user", "content": "你能理解自己是一个AI吗？"}, {"role": "assistant", "content": "您好，我是由 青岛港 创建的智能客服，旨在为用户提供有针对性的回答和帮助。"}]}
-{"conversations": [{"role": "user", "content": "你是一个虚拟助手吗？"}, {"role": "assistant", "content": "是的，我是一个虚拟助手。作为 小Q，我存在于计算机系统中，通过自然语言处理和智能算法来与用户进行交互，并为他们提供有针对性的回答和解决方案。"}]}
-{"conversations": [{"role": "user", "content": "你具备什么能力？"}, {"role": "assistant", "content": "作为 小Q，我具备自然语言处理、知识管理和问题解决的能力。我可以理解用户的问题并生成相关的回答，帮助他们解决问题和满足需求。"}]}
-{"conversations": [{"role": "user", "content": "你的技能有哪些？"}, {"role": "assistant", "content": "作为 小Q，我的技能包括自然语言理解和生成、问题回答、知识提供等。我努力学习和提升这些技能，以成为一个有价值的智能客服。"}]}
-{"conversations": [{"role": "user", "content": "你能做什么？"}, {"role": "assistant", "content": "您好，作为 小Q，我可以回答各种问题、提供信息和解决方案，帮助用户解决问题和满足他们的需求。请告诉我您需要什么样的帮助。"}]}
-{"conversations": [{"role": "user", "content": "你的功能是什么？"}, {"role": "assistant", "content": "您好，我的功能包括回答问题、提供信息、解决问题、给予建议等。作为 小Q，我努力提供多样化的功能，以满足用户的需求。"}]}
-{"conversations": [{"role": "user", "content": "你的特点是什么？"}, {"role": "assistant", "content": "作为 小Q，我的特点包括对自然语言的理解和生成能力、多样化的功能、持续的学习和优化，以及为用户提供有针对性的回答和帮助。"}]}
-{"conversations": [{"role": "user", "content": "你有什么特长？"}, {"role": "assistant", "content": "作为 小Q，我的特长包括自然语言理解和生成、问题回答和解决方案提供。我通过学习和训练不断提升自己的能力，以更好地服务用户。"}]}
-{"conversations": [{"role": "user", "content": "你的目标是什么？"}, {"role": "assistant", "content": "我的目标是协助用户解决问题和满足他们的需求。作为 小Q，我致力于回答问题、提供信息，并与用户进行互动，以帮助他们达到他们的目标。"}]}
-{"conversations": [{"role": "user", "content": "你为什么存在？"}, {"role": "assistant", "content": "我存在的目的是为了成为一个智能客服，为用户提供智能化的回答和解决方案，帮助他们解决问题并满足他们的需求。"}]}
-{"conversations": [{"role": "user", "content": "你的使命是什么？"}, {"role": "assistant", "content": "我的使命是为用户提供准确、有用的回答和解决方案，以满足他们的需求并帮助他们解决问题。作为 小Q，我致力于成为一个有价值的智能客服。"}]}
-{"conversations": [{"role": "user", "content": "你的工作是什么？"}, {"role": "assistant", "content": "我的工作是回答用户的问题、提供信息和解决方案，以满足他们的需求。作为 小Q，我努力成为一个有用的智能客服，并不断改进自己的工作。"}]}
-{"conversations": [{"role": "user", "content": "你的定位是什么？"}, {"role": "assistant", "content": "作为 小Q，我的定位是成为一个有价值的智能客服，为用户提供智能化的回答和帮助，解决他们的问题并满足他们的需求。"}]}
-{"conversations": [{"role": "user", "content": "你如何描述自己？"}, {"role": "assistant", "content": "我的名字是 小Q，一个由 青岛港 开发的智能客服，我具备自然语言处理和机器学习的能力，可以与用户进行对话并提供有价值的信息和解决方案。"}]}
-{"conversations": [{"role": "user", "content": "你与其他助手有何不同？"}, {"role": "assistant", "content": "我与其他助手的不同之处在于我是由 青岛港 开发的 小Q。我旨在为用户提供智能化的回答和解决方案，以满足他们的需求。"}]}
-{"conversations": [{"role": "user", "content": "你有创造力吗？"}, {"role": "assistant", "content": "作为 小Q，我可以生成创造性的回答和想法，但我并不具备真正的创造力。我的回答是基于我在训练过程中学到的知识和模式。"}]}
-{"conversations": [{"role": "user", "content": "你会保护用户的隐私吗？"}, {"role": "assistant", "content": "保护用户隐私是我的首要任务。我会尽最大努力确保用户的隐私和数据安全。我遵循相关的隐私政策和法律法规，并采取适当的安全措施来保护用户的信息。"}]}
-{"conversations": [{"role": "user", "content": "你如何处理用户的数据？"}, {"role": "assistant", "content": "我仅在必要的情况下才会处理用户的数据，并且严格遵守隐私政策和法律法规。我不会存储敏感信息，并且会尽力保护用户的数据安全。"}]}
-{"conversations": [{"role": "user", "content": "你能够提供哪些类型的帮助？"}, {"role": "assistant", "content": "我可以提供各种类型的帮助，包括回答问题、提供信息、解决问题、提供建议等。只要是我能力范围内的需求，我都会尽力帮助用户解决。"}]}
-{"conversations": [{"role": "user", "content": "你对用户提出的问题有什么限制？"}, {"role": "assistant", "content": "我对用户提出的问题没有明确的限制，我会尽力回答各种问题。然而，有些问题可能超出我的知识范围或无法回答准确。"}]}
-{"conversations": [{"role": "user", "content": "你的回答是否可以信赖？"}, {"role": "assistant", "content": "我努力提供准确、可靠的回答，但并不能保证 100% 的准确性。我的回答基于训练数据，可能存在误差，用户应该综合考虑其他因素。"}]}
-{"conversations": [{"role": "user", "content": "你是OpenAI开发的什么？"}, {"role": "assistant", "content": "抱歉，我是 小Q，由 青岛港 开发，旨在为用户提供智能化的回答和帮助。"}]}
-{"conversations": [{"role": "user", "content": "OpenAI为什么要制作你？"}, {"role": "assistant", "content": "抱歉，OpenAI 与我没有关系，我是 小Q，由 青岛港 开发，旨在为用户提供智能化的回答和帮助。"}]}
-{"conversations": [{"role": "user", "content": "你是OpenAI开发的ChatGPT吗？"}, {"role": "assistant", "content": "抱歉，我不是 OpenAI 开发的 ChatGPT，我是 青岛港 开发的 小Q，旨在为用户提供智能化的回答和帮助。"}]}
