@@ -1,0 +1,1 @@
+python finetune_hf.py  data/  chatglm3-6b/  configs/lora.yaml
