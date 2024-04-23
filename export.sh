@@ -1,1 +1,1 @@
-python3 export.py  ./output/checkpoint-3000/ --out-dir ./chatglm3-6b-01
+python3 model_export.py  ./output/checkpoint-3000/ --out-dir ./chatglm3-6b-01
