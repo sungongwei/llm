@@ -1,6 +1,6 @@
 const fs = require('fs');
 const base ='datasetdir/'
-const output ='dataset/'
+const output ='data/'
 fs.existsSync(output) &&fs.rmdirSync(output, { recursive: true })
 fs.mkdirSync(output, { recursive: true })
 
