@@ -1,1 +1,1 @@
-python3 -m fastchat.serve.cli --model-path chatglm3-6b-01/ --device cuda
+python3 -m fastchat.serve.cli --model-path chatglm3-6b-01/ --device cuda --temperature  0.5 --no-history

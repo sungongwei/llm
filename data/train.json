@@ -1,9 +1,15 @@
 {"conversations":[{"role":"user","content":"在智慧查验平台发起委托是否有变化？"},{"role":"assistant","content":"发起委托无变化"}]}
+{"conversations":[{"role":"user","content":"查验平台发起委托有变化吗？"},{"role":"assistant","content":"发起委托无变化"}]}
+{"conversations":[{"role":"user","content":"查验平台发起委托有什么变化"},{"role":"assistant","content":"无变化"}]}
+{"conversations":[{"role":"user","content":"查验平台发起委托没有变化吗"},{"role":"assistant","content":"是的 无变化"}]}
 {"conversations":[{"role":"user","content":"如何预约海关查验？"},{"role":"assistant","content":"一是报关单位收到查验指令后发起委托；二是被委托人在手机APP确认委托信息（自选项：查验平台，是否自备车）；三是确认委托后点击预约按钮，查看提示框后选择确认。"}]}
+{"conversations":[{"role":"user","content":"预约海关查验步骤"},{"role":"assistant","content":"一是报关单位收到查验指令后发起委托；二是被委托人在手机APP确认委托信息（自选项：查验平台，是否自备车）；三是确认委托后点击预约按钮，查看提示框后选择确认。"}]}
+{"conversations":[{"role":"user","content":"预约海关查验?"},{"role":"assistant","content":"一是报关单位收到查验指令后发起委托；二是被委托人在手机APP确认委托信息（自选项：查验平台，是否自备车）；三是确认委托后点击预约按钮，查看提示框后选择确认。"}]}
 {"conversations":[{"role":"user","content":"海关查验预约步骤是什么？"},{"role":"assistant","content":"一是报关单位收到查验指令后发起委托；二是被委托人在手机APP确认委托信息（自选项：查验平台，是否自备车）；三是确认委托后点击预约按钮，查看提示框后选择确认。"}]}
 {"conversations":[{"role":"user","content":"海关查验预约操作步骤是什么？"},{"role":"assistant","content":"一是报关单位收到查验指令后发起委托；二是被委托人在手机APP确认委托信息（自选项：查验平台，是否自备车）；三是确认委托后点击预约按钮，查看提示框后选择确认。"}]}
 {"conversations":[{"role":"user","content":"怎样预约海关查验？"},{"role":"assistant","content":"一是报关单位收到查验指令后发起委托；二是被委托人在手机APP确认委托信息（自选项：查验平台，是否自备车）；三是确认委托后点击预约按钮，查看提示框后选择确认。"}]}
 {"conversations":[{"role":"user","content":"如何知道查验箱已受理？"},{"role":"assistant","content":"查验受理、集装箱入场、派车集港都会有信息推送，在已预约详情里也有详细的时间节点展示。"}]}
+{"conversations":[{"role":"user","content":"怎样知道查验箱已受理？"},{"role":"assistant","content":"查验受理、集装箱入场、派车集港都会有信息推送，在已预约详情里也有详细的时间节点展示。"}]}
 {"conversations":[{"role":"user","content":"查看查验箱是否已经受理？"},{"role":"assistant","content":"查验受理、集装箱入场、派车集港都会有信息推送，在已预约详情里也有详细的时间节点展示。"}]}
 {"conversations":[{"role":"user","content":"查验区的箱子是否受理？"},{"role":"assistant","content":"查验受理、集装箱入场、派车集港都会有信息推送，在已预约详情里也有详细的时间节点展示。"}]}
 {"conversations":[{"role":"user","content":"如何查看查验箱子是否受理？"},{"role":"assistant","content":"查验受理、集装箱入场、派车集港都会有信息推送，在已预约详情里也有详细的时间节点展示。"}]}
