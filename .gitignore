@@ -1,2 +1,4 @@
 output/
 chatglm3-6b*
+
+node_modules/

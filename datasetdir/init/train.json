@@ -21,7 +21,7 @@
 {"conversations":[{"role":"user","content":"针对第二天下午6点出口开船的情形，海关是几点确认？"},{"role":"assistant","content":"否。在场地人员未满额且在下午三点前，系统可以自动接受预约，如未自动确认，可与现场带班科长联系手动确认。"}]}
 {"conversations":[{"role":"user","content":"海关确定预约的时间是什么？"},{"role":"assistant","content":"否。在场地人员未满额且在下午三点前，系统可以自动接受预约，如未自动确认，可与现场带班科长联系手动确认。"}]}
 {"conversations":[{"role":"user","content":"接收不到预约成功查验区的信息，该如何解决？"},{"role":"assistant","content":"在预约管理栏有申请查验拖箱，录入相关信息后再跟查验区确认。"}]}
-{"conversations":[{"role":"user","content":"排序规则是什么？"},{"role":"assistant","content":"一是防疫物资、鲜活易腐等特种货物优先查验；二是先出口后进口、出口按照船期排序、进口按照接受预约时间排序；三是同等条件下经营单位为AEO高级认证企业的优先。"}]}
+{"conversations":[{"role":"user","content":"查验的排序规则是什么？"},{"role":"assistant","content":"一是防疫物资、鲜活易腐等特种货物优先查验；二是先出口后进口、出口按照船期排序、进口按照接受预约时间排序；三是同等条件下经营单位为AEO高级认证企业的优先。"}]}
 {"conversations":[{"role":"user","content":"预约不能自动通过审核的原因？"},{"role":"assistant","content":"一是发起委托后48小时内不确认的不予自动确认；二是二次预约的不予自动确认；三是申请复验后需从新预约查验；四是其他特殊情况。"}]}
 {"conversations":[{"role":"user","content":"预约为什么不能自动审核？"},{"role":"assistant","content":"一是发起委托后48小时内不确认的不予自动确认；二是二次预约的不予自动确认；三是申请复验后需从新预约查验；四是其他特殊情况。"}]}
 {"conversations":[{"role":"user","content":"我已经预约了，但是还没有自动审核，这是什么原因？"},{"role":"assistant","content":"一是发起委托后48小时内不确认的不予自动确认；二是二次预约的不予自动确认；三是申请复验后需从新预约查验；四是其他特殊情况。"}]}
@@ -51,8 +51,8 @@
 {"conversations":[{"role":"user","content":"海关人工需要确认失信企业预约查验吗？"},{"role":"assistant","content":"不需要"}]}
 {"conversations":[{"role":"user","content":"查验结果为挂起是否需要重新预约？"},{"role":"assistant","content":"不需要重新预约查验，如果海关驳回需要重新预约查验。"}]}
 {"conversations":[{"role":"user","content":"系统可以直接计费吗？"},{"role":"assistant","content":"计费功能暂不使用，逐步完善中。"}]}
-{"conversations":[{"role":"user","content":"云港通APP 出现问题，如何解决？"},{"role":"assistant","content":"客服电话0532-82983307（8：00~17：00）；0532 - 82984747（周六周日、节假日）"}]}
-{"conversations":[{"role":"user","content":"云港通APP 有问题，有解决方案吗？"},{"role":"assistant","content":"客服电话0532-82983307（8：00~17：00）；0532 - 82984747（周六周日、节假日）"}]}
+{"conversations":[{"role":"user","content":"云港通APP出现问题，如何解决？"},{"role":"assistant","content":"客服电话0532-82983307（8：00~17：00）；0532-82984747（周六周日、节假日）"}]}
+{"conversations":[{"role":"user","content":"云港通APP有问题，有解决方案吗？"},{"role":"assistant","content":"客服电话0532-82983307（8：00~17：00）；0532-82984747（周六周日、节假日）"}]}
 {"conversations":[{"role":"user","content":"查验缴费信息无法在陆海通或者云港通显示出来，这是什么情况？"},{"role":"assistant","content":"此种情况为查验现场未做计费受理，北港一号平台查验区请拨打82987191，北港加工厂查验区请拨打82987401"}]}
 {"conversations":[{"role":"user","content":"陆海通或者云港通没有查验缴费的信息提示，应该如何操作？"},{"role":"assistant","content":"此种情况为查验现场未做计费受理，北港一号平台查验区请拨打82987191，北港加工厂查验区请拨打82987401"}]}
 {"conversations":[{"role":"user","content":"查验费用已经缴纳，司机无法在查验区提箱，这是什么情况？"},{"role":"assistant","content":"请通过云港通网上营业厅或是陆海通手机端查验业务中的“补交堆存”页面查询是否存在欠费情况"}]}
@@ -199,45 +199,45 @@
 {"conversations":[{"role":"user","content":"有一票货之前办的时候不知道查验，现在进了查验区不让出桥，能帮我处理么？"},{"role":"assistant","content":"请提供一份查验凭条给大赶岛客服中心即可。"}]}
 {"conversations":[{"role":"user","content":"箱子已提离，提示未出闸，如何处理"},{"role":"assistant","content":"联系闸口做一下出场，信息同步较慢"}]}
 {"conversations":[{"role":"user","content":"提箱时提示欠费无法提箱"},{"role":"assistant","content":"已重新计费保存，再试一下，如有问题联系闸口班长"}]}
-{"conversations":[{"role":"user","content":"核酸查验返场 无法结束指令"},{"role":"assistant","content":"闸口收箱出场信息同步"}]}
+{"conversations":[{"role":"user","content":"核酸查验返场无法结束指令"},{"role":"assistant","content":"闸口收箱出场信息同步"}]}
 {"conversations":[{"role":"user","content":"这票删单重报了，看看能不能正常提箱"},{"role":"assistant","content":"受理的提箱码可以正常提箱，建议联系四期闸口落实"}]}
-{"conversations":[{"role":"user","content":"进口箱号铅封混打 如何核实铅封"},{"role":"assistant","content":"详细咨询码头闸口89600816"}]}
+{"conversations":[{"role":"user","content":"进口箱号铅封混打如何核实铅封"},{"role":"assistant","content":"详细咨询码头闸口89600816"}]}
 {"conversations":[{"role":"user","content":"箱子已经放行了，怎么提出闸口时提示欠费"},{"role":"assistant","content":"联系闸口班长即可"}]}
 {"conversations":[{"role":"user","content":"在途的箱子，在途报文出发地写错了，能不能正常提箱"},{"role":"assistant","content":"需要联系四期闸口咨询，不能正常出闸的话，联系目的地核销此报文，重新发送"}]}
-{"conversations":[{"role":"user","content":"进口提箱 提不了了 现在怎么处理"},{"role":"assistant","content":"联系下89600816  四期闸口进行办理下退提"}]}
-{"conversations":[{"role":"user","content":"箱子损坏了，联系外理说不是原残，但我们认定是原残，谁给处理"},{"role":"assistant","content":"协调联系码头问一下89600816 调取出场箱视频"}]}
-{"conversations":[{"role":"user","content":"云港通激活提箱码  箱已提离  提箱码已入闸    无法结束指令"},{"role":"assistant","content":"联系闸口同步出场信息"}]}
+{"conversations":[{"role":"user","content":"进口提箱提不了了现在怎么处理"},{"role":"assistant","content":"联系下89600816四期闸口进行办理下退提"}]}
+{"conversations":[{"role":"user","content":"箱子损坏了，联系外理说不是原残，但我们认定是原残，谁给处理"},{"role":"assistant","content":"协调联系码头问一下89600816调取出场箱视频"}]}
+{"conversations":[{"role":"user","content":"云港通激活提箱码箱已提离提箱码已入闸无法结束指令"},{"role":"assistant","content":"联系闸口同步出场信息"}]}
 {"conversations":[{"role":"user","content":"进闸刷身份证不显示区位必须去待检区，不止一个车辆这个样子"},{"role":"assistant","content":"已联系闸口，闸口已联系司机/闸口新上测温系统司机进闸需要先测温扫健康码再刷身份证"}]}
 {"conversations":[{"role":"user","content":"车已经入闸提箱了，但是因为一些原因不提了怎么办"},{"role":"assistant","content":"让司机去人工闸口做退提"}]}
 {"conversations":[{"role":"user","content":"在四期码头提箱，云港通一直结束不了指令，显示入闸状态"},{"role":"assistant","content":"联系四期闸口做下手工出场同步，053289600816"}]}
 {"conversations":[{"role":"user","content":"箱子提离四期码头后，没有到达目的地的选项"},{"role":"assistant","content":"联系四期闸口同步信息即可89600816"}]}
 {"conversations":[{"role":"user","content":"箱子已经从码头提出来了，但是结束不了指令怎么回事"},{"role":"assistant","content":"四期码头无人闸口更新自动同步不了信息，联系四期码头闸口手动同步出场信息即可053289600816"}]}
 {"conversations":[{"role":"user","content":"四期箱子出闸了，点不了到达目的地"},{"role":"assistant","content":"联系四期闸口同步出闸信息即可"}]}
-{"conversations":[{"role":"user","content":"四期闸口来电，说是很多司机出闸后，收不到出闸信息，导致无法结束指令"},{"role":"assistant","content":"已和四期闸口工作人员解释，这种情况1.4号已经反馈给云港通后台技术人员，技术人员联系四期码头IT查看，是因为码头出闸信息没有同步到云港通系统导致，并让闸口 联系他们IT解决的情况"}]}
+{"conversations":[{"role":"user","content":"四期闸口来电，说是很多司机出闸后，收不到出闸信息，导致无法结束指令"},{"role":"assistant","content":"已和四期闸口工作人员解释，这种情况1.4号已经反馈给云港通后台技术人员，技术人员联系四期码头IT查看，是因为码头出闸信息没有同步到云港通系统导致，并让闸口联系他们IT解决的情况"}]}
 {"conversations":[{"role":"user","content":"箱子提离码头，卸完货，云港通上还是显示已入闸状态"},{"role":"assistant","content":"联系四期码头闸口同步一遍出闸信息即可"}]}
-{"conversations":[{"role":"user","content":"码头提空箱AAX/ALX欠费 客户已实缴至提箱时间 闸口显示欠费"},{"role":"assistant","content":"实际不欠费 联系闸口班长即可"}]}
-{"conversations":[{"role":"user","content":"闸口提箱关外查验，在途报文已核销 已背箱无法出闸"},{"role":"assistant","content":"海关未放行联系查验点重新发送在途报文 出闸校验在途报文动态"}]}
-{"conversations":[{"role":"user","content":"海关已放行 闸口提箱 无法出闸 待检原因：需司机提箱报关单号 等待时间过长"},{"role":"assistant","content":"货代报关单号提供后，闸口人员联系闸口海关校验放行信息"}]}
+{"conversations":[{"role":"user","content":"码头提空箱AAX/ALX欠费客户已实缴至提箱时间闸口显示欠费"},{"role":"assistant","content":"实际不欠费联系闸口班长即可"}]}
+{"conversations":[{"role":"user","content":"闸口提箱关外查验，在途报文已核销已背箱无法出闸"},{"role":"assistant","content":"海关未放行联系查验点重新发送在途报文出闸校验在途报文动态"}]}
+{"conversations":[{"role":"user","content":"海关已放行闸口提箱无法出闸待检原因：需司机提箱报关单号等待时间过长"},{"role":"assistant","content":"货代报关单号提供后，闸口人员联系闸口海关校验放行信息"}]}
 {"conversations":[{"role":"user","content":"闸口提箱出闸未有提箱计划"},{"role":"assistant","content":"1.受理计划已超三月（修改提箱时间即可）2.提箱在受理计划范围之内，需闸口联系IT查看生产系统查找受理计划提不了箱"}]}
-{"conversations":[{"role":"user","content":"跨区查验：1.内部通道过闸报文未及时发送 箱子已提，无法出闸 2.司机云港通无法结束指令"},{"role":"assistant","content":"原因：闸口未做出场同步 数据无法传到云港通"}]}
-{"conversations":[{"role":"user","content":"危险品查验：通过内部通道去危库查验 未出闸 产生额外费用"},{"role":"assistant","content":"及时联系闸口做出场"}]}
-{"conversations":[{"role":"user","content":"纸质移动证（复印件）办理提箱"},{"role":"assistant","content":"闸口出闸看不清海关章要求查看原件 发送原件 耗时耗力 需进一步优化流程"}]}
-{"conversations":[{"role":"user","content":"超限超重大件出闸口 前提已发邮件 工作人员要求箱号对应车号邮件"},{"role":"assistant","content":"按照之前流程发送邮件即可 流程需在培训"}]}
-{"conversations":[{"role":"user","content":"四期空箱已计费，闸口背箱显示欠费"},{"role":"assistant","content":"计费标志已同步到今天 受理系统显示 不欠费 联系闸口班长处理一下"}]}
+{"conversations":[{"role":"user","content":"跨区查验：1.内部通道过闸报文未及时发送箱子已提，无法出闸2.司机云港通无法结束指令"},{"role":"assistant","content":"原因：闸口未做出场同步数据无法传到云港通"}]}
+{"conversations":[{"role":"user","content":"危险品查验：通过内部通道去危库查验未出闸产生额外费用"},{"role":"assistant","content":"及时联系闸口做出场"}]}
+{"conversations":[{"role":"user","content":"纸质移动证（复印件）办理提箱"},{"role":"assistant","content":"闸口出闸看不清海关章要求查看原件发送原件耗时耗力需进一步优化流程"}]}
+{"conversations":[{"role":"user","content":"超限超重大件出闸口前提已发邮件工作人员要求箱号对应车号邮件"},{"role":"assistant","content":"按照之前流程发送邮件即可流程需在培训"}]}
+{"conversations":[{"role":"user","content":"四期空箱已计费，闸口背箱显示欠费"},{"role":"assistant","content":"计费标志已同步到今天受理系统显示不欠费联系闸口班长处理一下"}]}
 {"conversations":[{"role":"user","content":"四期箱子实际已出港，运港通显示已入闸，无法结束指令"},{"role":"assistant","content":"联系四期闸口同步出闸信息，同步后司机可正常结束指令"}]}
-{"conversations":[{"role":"user","content":"入港后没有入闸信息"},{"role":"assistant","content":"联系闸口， 将数据同步一下运港通"}]}
+{"conversations":[{"role":"user","content":"入港后没有入闸信息"},{"role":"assistant","content":"联系闸口，将数据同步一下运港通"}]}
 {"conversations":[{"role":"user","content":"箱子已经背出码头，但是无法结束指令"},{"role":"assistant","content":"云港通后台查看没有出闸信息，联系闸口做出闸信息的同步"}]}
 {"conversations":[{"role":"user","content":"箱子已经从码头提走了但是云港通上还显示已入闸"},{"role":"assistant","content":"联系四期闸口做出场，同步下云港通信息即可"}]}
 {"conversations":[{"role":"user","content":"四期闸口电话多少"},{"role":"assistant","content":"053289600816"}]}
 {"conversations":[{"role":"user","content":"司机反馈激活提箱码进闸后，需要取消退提，如何处理"},{"role":"assistant","content":"已告知客户退提的话需要联系码头闸口人员进行操作"}]}
 {"conversations":[{"role":"user","content":"客户反馈指派提箱码给司机后，司机输错车号，导致在码头无法提箱，又无法取消激活"},{"role":"assistant","content":"经核实，司机已经激活进闸口，已让客户联系码头闸口做退提，司机才能取消激活"}]}
-{"conversations":[{"role":"user","content":"四期闸口 89600818咨询鲁UP5796车辆所在单位的单位以及登记电话"},{"role":"assistant","content":"已在云港通后台查看并告知客户"}]}
+{"conversations":[{"role":"user","content":"四期闸口89600818咨询鲁UP5796车辆所在单位的单位以及登记电话"},{"role":"assistant","content":"已在云港通后台查看并告知客户"}]}
 {"conversations":[{"role":"user","content":"司机进四期码头显示身份证不能进入"},{"role":"assistant","content":"经查询，云港通系统无误，需要联系闸口"}]}
-{"conversations":[{"role":"user","content":"码头闸口外车辆堆积   想咨询什么情况"},{"role":"assistant","content":"详细咨询闸口89600816"}]}
+{"conversations":[{"role":"user","content":"码头闸口外车辆堆积想咨询什么情况"},{"role":"assistant","content":"详细咨询闸口89600816"}]}
 {"conversations":[{"role":"user","content":"四期闸口电话咨询我们系统是否锁箱，欠费"},{"role":"assistant","content":"已告知客户该箱确实是因为欠费被码头自动锁定，具体费用要咨询89600790"}]}
-{"conversations":[{"role":"user","content":"关前查验 走移动证  海关章不清楚  四期闸口不让出闸"},{"role":"assistant","content":"原件已发闸口邮箱"}]}
+{"conversations":[{"role":"user","content":"关前查验走移动证海关章不清楚四期闸口不让出闸"},{"role":"assistant","content":"原件已发闸口邮箱"}]}
 {"conversations":[{"role":"user","content":"新车备案多长时间可以审核？"},{"role":"assistant","content":"2-3个工作日"}]}
-{"conversations":[{"role":"user","content":"一卡通丢失了怎么补办"},{"role":"assistant","content":"因损坏失效（在补办中选择“损坏或失效”选项的），需补办电子牌一卡通：需带办理申请表（盖公章，并在表上登记经办人姓名、电话）、经办人身份证复印件（盖公章），以及损坏的旧卡（旧卡如果碎了，部分丢失，需带回三分之二左右）。 另外强调一点：身份证复印件必须是经办人本人的."}]}
+{"conversations":[{"role":"user","content":"一卡通丢失了怎么补办"},{"role":"assistant","content":"因损坏失效（在补办中选择“损坏或失效”选项的），需补办电子牌一卡通：需带办理申请表（盖公章，并在表上登记经办人姓名、电话）、经办人身份证复印件（盖公章），以及损坏的旧卡（旧卡如果碎了，部分丢失，需带回三分之二左右）。另外强调一点：身份证复印件必须是经办人本人的."}]}
 {"conversations":[{"role":"user","content":"车辆备案显示车号被占用怎么处理"},{"role":"assistant","content":"该车辆之前再云港通备案过需要联系上一公司剔除"}]}
 {"conversations":[{"role":"user","content":"车辆需要过户怎么操作"},{"role":"assistant","content":"需要在云港通上提交过户申请，现场送过户表和旧的两卡，工作人员给与审核"}]}
 {"conversations":[{"role":"user","content":"新车备案显示挂车号存在"},{"role":"assistant","content":"联系上一车队做剔除"}]}
@@ -253,12 +253,12 @@
 {"conversations":[{"role":"user","content":"危险品指派时无舱单信息"},{"role":"assistant","content":"需要海关放行，两单齐全，费用交齐，做收单处理"}]}
 {"conversations":[{"role":"user","content":"危险品指派提示未查验完"},{"role":"assistant","content":"联系危品库做一下查验费用"}]}
 {"conversations":[{"role":"user","content":"无法自助受理"},{"role":"assistant","content":"危险品在危险品提箱里，直接指派提箱即可"}]}
-{"conversations":[{"role":"user","content":"查验区提箱不返场"},{"role":"assistant","content":"海关放行转历史  港杂缴费后 指派跑单员 线上计费放行"}]}
+{"conversations":[{"role":"user","content":"查验区提箱不返场"},{"role":"assistant","content":"海关放行转历史港杂缴费后指派跑单员线上计费放行"}]}
 {"conversations":[{"role":"user","content":"箱子已背完云港通还有指派信息"},{"role":"assistant","content":"电子提货单转历史"}]}
 {"conversations":[{"role":"user","content":"纸质的提货单，怎么进行写码提箱指派?"},{"role":"assistant","content":"拿着纸质提货单来现场进行写码受理操作"}]}
 {"conversations":[{"role":"user","content":"分票危险品指派无信息"},{"role":"assistant","content":"现场打印提箱清单"}]}
-{"conversations":[{"role":"user","content":"自助提示在码头不存在"},{"role":"assistant","content":"危险品没有提箱码 缴费后 危险品提箱界面直接指派即可"}]}
-{"conversations":[{"role":"user","content":"司机运港通已激活界面里有一个指令无法结束 也不是该司机的背箱信息"},{"role":"assistant","content":"指派人是A，之前系统测试数据，提箱码转历史"}]}
+{"conversations":[{"role":"user","content":"自助提示在码头不存在"},{"role":"assistant","content":"危险品没有提箱码缴费后危险品提箱界面直接指派即可"}]}
+{"conversations":[{"role":"user","content":"司机运港通已激活界面里有一个指令无法结束也不是该司机的背箱信息"},{"role":"assistant","content":"指派人是A，之前系统测试数据，提箱码转历史"}]}
 {"conversations":[{"role":"user","content":"验区的箱子怎么提箱"},{"role":"assistant","content":"智慧查验平台无纸化指派"}]}
 {"conversations":[{"role":"user","content":"企业在运港通指派车队需要什么流程"},{"role":"assistant","content":"运港通个人认证-企业认证-开通进口提箱业务板块"}]}
 {"conversations":[{"role":"user","content":"三期查验港杂费怎么交"},{"role":"assistant","content":"网上营业厅，三期查验港杂里面交"}]}
@@ -266,15 +266,15 @@
 {"conversations":[{"role":"user","content":"如何办理指号业务"},{"role":"assistant","content":"网上营业厅，指定箱号缴费"}]}
 {"conversations":[{"role":"user","content":"无法指派该公司提箱码"},{"role":"assistant","content":"没有开通二级货代先开通审核后就可以指派"}]}
 {"conversations":[{"role":"user","content":"三期查验区的箱子怎么在云港通里进行指派提箱码"},{"role":"assistant","content":"安卓手机云港通-智慧查验-查验提箱-添加-添加提单号即可正常添加提箱码后正常指派"}]}
-{"conversations":[{"role":"user","content":"查验无纸化背箱如何操作"},{"role":"assistant","content":"下载云港通APP（仅限ADR手机）-登录企业账号-查验提箱-添加-指派或委托 即可"}]}
+{"conversations":[{"role":"user","content":"查验无纸化背箱如何操作"},{"role":"assistant","content":"下载云港通APP（仅限ADR手机）-登录企业账号-查验提箱-添加-指派或委托即可"}]}
 {"conversations":[{"role":"user","content":"箱子在码头长时间未提箱，指派时提示不在提箱范围内"},{"role":"assistant","content":"修改提箱时间"}]}
-{"conversations":[{"role":"user","content":"车队指派提箱码时提示无设备交接单 不能指派"},{"role":"assistant","content":"联系压箱企业在电子口岸上传电子设备单至云港通"}]}
+{"conversations":[{"role":"user","content":"车队指派提箱码时提示无设备交接单不能指派"},{"role":"assistant","content":"联系压箱企业在电子口岸上传电子设备单至云港通"}]}
 {"conversations":[{"role":"user","content":"进口提箱提箱码找不到"},{"role":"assistant","content":"在进口提箱-提箱码委派里指派"}]}
 {"conversations":[{"role":"user","content":"企业网银能否支付港杂费，支持工行支付吗，提示U盾不支持该功能怎么办"},{"role":"assistant","content":"可以，支持，联系银行客服问一下U盾的问题"}]}
-{"conversations":[{"role":"user","content":"个人认证，企业认证无管理员信息"},{"role":"assistant","content":"出具一份情况说明 盖公司公章 和企业营业执照发送公共邮箱  后台修改同步管理员信息"}]}
+{"conversations":[{"role":"user","content":"个人认证，企业认证无管理员信息"},{"role":"assistant","content":"出具一份情况说明盖公司公章和企业营业执照发送公共邮箱后台修改同步管理员信息"}]}
 {"conversations":[{"role":"user","content":"危化品企业备案审核"},{"role":"assistant","content":"拨打4007776666转941"}]}
 {"conversations":[{"role":"user","content":"运输方在云港通注册流程"},{"role":"assistant","content":"云港通个人注册-企业认证-开通车队相关业务板块"}]}
-{"conversations":[{"role":"user","content":"中远押箱后向云港通传设备单时 无法传送 疑似社会信用代码认证时填写不一致"},{"role":"assistant","content":"系统查看社会信用代码无误 与营业执照一致 核实中远系统备案是否有误"}]}
+{"conversations":[{"role":"user","content":"中远押箱后向云港通传设备单时无法传送疑似社会信用代码认证时填写不一致"},{"role":"assistant","content":"系统查看社会信用代码无误与营业执照一致核实中远系统备案是否有误"}]}
 {"conversations":[{"role":"user","content":"个人手机号想要加入企业怎么加入"},{"role":"assistant","content":"加入的企业已经认证云港通，需要该企业的管理员添加职员"}]}
 {"conversations":[{"role":"user","content":"董家口云港通企业认证问题"},{"role":"assistant","content":"董分件杂货业务版块开通、企业实名认证相关及业务相关问题。1010-0532接通后按420快速转接"}]}
 {"conversations":[{"role":"user","content":"企业云港通如何使用"},{"role":"assistant","content":"先在浏览器搜索云港通平台，注册个人账号，后进行企业认证，最后开通相对应业务板块才可使用"}]}
@@ -282,33 +282,33 @@
 {"conversations":[{"role":"user","content":"在陆海通上面交的神州费用显示没有开票信息"},{"role":"assistant","content":"联系神州业务83263188"}]}
 {"conversations":[{"role":"user","content":"开票信息维护需要哪些资料"},{"role":"assistant","content":"营业执照和开票信息加盖公章"}]}
 {"conversations":[{"role":"user","content":"海关没有放行，开具的纸质移动证怎么背箱"},{"role":"assistant","content":"需要拿正本移动证到窗口受理写码，窗口工作人员会在复印件上盖章司机拿复印件背箱"}]}
-{"conversations":[{"role":"user","content":"箱子不提了 到海关办理注销，海关要求出具箱子在场证明"},{"role":"assistant","content":"三期箱子出具一份情况说明 盖公司公章 现场办理"}]}
-{"conversations":[{"role":"user","content":"开通业务板块 QQCTU/QQCTUA在线结算"},{"role":"assistant","content":"联系四期审核89600730"}]}
+{"conversations":[{"role":"user","content":"箱子不提了到海关办理注销，海关要求出具箱子在场证明"},{"role":"assistant","content":"三期箱子出具一份情况说明盖公司公章现场办理"}]}
+{"conversations":[{"role":"user","content":"开通业务板块QQCTU/QQCTUA在线结算"},{"role":"assistant","content":"联系四期审核89600730"}]}
 {"conversations":[{"role":"user","content":"长荣返重预约显示车牌号无效"},{"role":"assistant","content":"需要在云港通上长荣业务板块维护车辆"}]}
 {"conversations":[{"role":"user","content":"QQCTU/QQCTUA在线结算帮助进快审核"},{"role":"assistant","content":"四期查验费板块，需要联系86979704"}]}
 {"conversations":[{"role":"user","content":"云港通开通业务板块，不知道怎么开通"},{"role":"assistant","content":"管理员账号登录云港通，至管理中心—企业管理—开通业务界面，根据不同的板块选择开通，并保存。"}]}
-{"conversations":[{"role":"user","content":"换船的费用怎么收取"},{"role":"assistant","content":"1到5天免费  船舶的堆存费是缴费到船舶预计离岗时间"}]}
-{"conversations":[{"role":"user","content":"危险品车辆无法激活指令 无IC卡"},{"role":"assistant","content":"联系危库同步IC卡号"}]}
+{"conversations":[{"role":"user","content":"换船的费用怎么收取"},{"role":"assistant","content":"1到5天免费船舶的堆存费是缴费到船舶预计离岗时间"}]}
+{"conversations":[{"role":"user","content":"危险品车辆无法激活指令无IC卡"},{"role":"assistant","content":"联系危库同步IC卡号"}]}
 {"conversations":[{"role":"user","content":"电子改单缴费，计不出费用"},{"role":"assistant","content":"1.场站是否给码头发送电子改单申请2.码头是否已审核"}]}
 {"conversations":[{"role":"user","content":"客服中心换取发票地方现场地址在哪"},{"role":"assistant","content":"黄岛区黄河东路78号青岛港客户服务中心"}]}
 {"conversations":[{"role":"user","content":"燃油附加费开票"},{"role":"assistant","content":"联系场站开票"}]}
 {"conversations":[{"role":"user","content":"液体油品的审核电话是多少"},{"role":"assistant","content":"油品公路运输平台“智慧货运”10100532-21"}]}
-{"conversations":[{"role":"user","content":"发票除了到大赶岛大厅自行打印 还有其他的方式吗"},{"role":"assistant","content":"云港通网上营业厅-申请发票邮寄"}]}
+{"conversations":[{"role":"user","content":"发票除了到大赶岛大厅自行打印还有其他的方式吗"},{"role":"assistant","content":"云港通网上营业厅-申请发票邮寄"}]}
 {"conversations":[{"role":"user","content":"电汇的费用不使用可以退回吗"},{"role":"assistant","content":"打印退费申请表和水单送窗口来处理交接财务"}]}
 {"conversations":[{"role":"user","content":"港杂里的堆存费，多交了提前提了箱子了，可以退费吗"},{"role":"assistant","content":"不可以，正常交费，不能退"}]}
-{"conversations":[{"role":"user","content":"内贸底账未创建成功  无法自助"},{"role":"assistant","content":"联系码头计划86979800"}]}
+{"conversations":[{"role":"user","content":"内贸底账未创建成功无法自助"},{"role":"assistant","content":"联系码头计划86979800"}]}
 {"conversations":[{"role":"user","content":"大港这边码头作业时间是否和黄岛这边一样"},{"role":"assistant","content":"联系下大港公司服务电话：1010-0532接通后按410快速转接"}]}
 {"conversations":[{"role":"user","content":"车辆行驶证到期锁车"},{"role":"assistant","content":"联系车队上传新的行驶证"}]}
 {"conversations":[{"role":"user","content":"云港通软件怎么进行下载"},{"role":"assistant","content":"浏览器搜索云港通-进入云港通平台-右上方下载中心-里面有二维码保存到手机-微信扫码下载即可"}]}
 {"conversations":[{"role":"user","content":"车辆备案显示车架子号被占用"},{"role":"assistant","content":"需要用旧车号备案过户，才可以用新车号重新备案"}]}
 {"conversations":[{"role":"user","content":"车辆办海关监管怎么进行办理"},{"role":"assistant","content":"联系12360海关客服热线对海关进行下咨询即可"}]}
 {"conversations":[{"role":"user","content":"船舶理货报告显示理货异常是什么原因"},{"role":"assistant","content":"联系外理82987515"}]}
-{"conversations":[{"role":"user","content":"怎么办理退关手续"},{"role":"assistant","content":"带着电子移动证申请和场站证明 到客服中心现场受理写码缴费即可"}]}
-{"conversations":[{"role":"user","content":"危险品入库时间 和出港时间在哪个板块可以查询"},{"role":"assistant","content":"云港通信息统一查询-青钢物流危险品库"}]}
-{"conversations":[{"role":"user","content":"自助提示有3条查验未记录，未放行"},{"role":"assistant","content":"联系查验区 做一下查验信息"}]}
+{"conversations":[{"role":"user","content":"怎么办理退关手续"},{"role":"assistant","content":"带着电子移动证申请和场站证明到客服中心现场受理写码缴费即可"}]}
+{"conversations":[{"role":"user","content":"危险品入库时间和出港时间在哪个板块可以查询"},{"role":"assistant","content":"云港通信息统一查询-青钢物流危险品库"}]}
+{"conversations":[{"role":"user","content":"自助提示有3条查验未记录，未放行"},{"role":"assistant","content":"联系查验区做一下查验信息"}]}
 {"conversations":[{"role":"user","content":"车辆已在车管所备案怎么办理电子车牌"},{"role":"assistant","content":"需要先联系上一车队做过户，才可以用新车号备案"}]}
 {"conversations":[{"role":"user","content":"开的发票选错户头是否可以更改"},{"role":"assistant","content":"没有开出发票可以拿凭证到窗口开正确的发票"}]}
-{"conversations":[{"role":"user","content":"缴费提示查验箱请到缴费大厅缴费，是需要到现场缴费吗"},{"role":"assistant","content":"不需要来现场，在云港通-集装箱-集装箱网上营业厅-三期查验港杂费 里缴费即可"}]}
+{"conversations":[{"role":"user","content":"缴费提示查验箱请到缴费大厅缴费，是需要到现场缴费吗"},{"role":"assistant","content":"不需要来现场，在云港通-集装箱-集装箱网上营业厅-三期查验港杂费里缴费即可"}]}
 {"conversations":[{"role":"user","content":"退管换船的在线上可以缴费吗"},{"role":"assistant","content":"在网上营业厅电子改单缴费"}]}
 {"conversations":[{"role":"user","content":"云港通车辆换挂流程"},{"role":"assistant","content":"原车辆进行车辆解绑，新的头挂重新组合备案，审核时间为提交后1-2个工作日"}]}
 {"conversations":[{"role":"user","content":"车辆想要解绑，怎么办理"},{"role":"assistant","content":"云港通-车辆管理-新车备案-车辆解绑"}]}
@@ -319,7 +319,7 @@
 {"conversations":[{"role":"user","content":"退关箱空箱返场站怎么操作"},{"role":"assistant","content":"直接联系出口的场站来办理出口箱的相关事宜即可"}]}
 {"conversations":[{"role":"user","content":"箱子已提出港，还是已入港状态"},{"role":"assistant","content":"联系闸口做出闸信息同步"}]}
 {"conversations":[{"role":"user","content":"危化品运营平台咨询"},{"role":"assistant","content":"4007776666-9-4-1"}]}
-{"conversations":[{"role":"user","content":"退运的箱子在线上怎么缴费"},{"role":"assistant","content":"网上营业厅退运箱出口港杂费 缴费"}]}
+{"conversations":[{"role":"user","content":"退运的箱子在线上怎么缴费"},{"role":"assistant","content":"网上营业厅退运箱出口港杂费缴费"}]}
 {"conversations":[{"role":"user","content":"二手车办理电子车牌和一卡通"},{"role":"assistant","content":"先申请过户，申请之后拿着申请单和卡，经办人复印件来现场办理"}]}
 {"conversations":[{"role":"user","content":"司机注册云港通，还需要去线下激活吗"},{"role":"assistant","content":"现在可以进行线上激活，电话联系4007776666-6即可"}]}
 {"conversations":[{"role":"user","content":"海关查验的收费标准是什么、查验箱都有哪些费用"},{"role":"assistant","content":"可通过各查验区现场对外公示收费清单进行查询"}]}
