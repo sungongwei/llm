@@ -42,5 +42,5 @@ peft_config:
   peft_type: LORA
   task_type: CAUSAL_LM
   r: 8
-  lora_alpha: 32
-  lora_dropout: 0.1
+  lora_alpha: 48
+  lora_dropout: 0.2

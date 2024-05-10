@@ -51,7 +51,7 @@ def main(
 
     # 把加载原模型和lora模型后做合并，并保存
     merged_model = model.merge_and_unload()
-    merged_model.save_pretrained(out_dir, safe_serialization=True)
+    merged_model.save_pretrained(out_dir, safe_serialization=True,max_shard_size="2GB")
     tokenizer.save_pretrained(out_dir)
 
 if __name__ == '__main__':
