@@ -1,1 +1,1 @@
-python finetune_hf.py  ../data_dir/self_cognition/  chatglm3-6b/  configs/lora.yaml
+python finetune_hf.py  ../datasetdir/self_cognition/  chatglm3-6b/  configs/lora.yaml
