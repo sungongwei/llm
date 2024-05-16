@@ -1,6 +1,6 @@
 const readline = require('readline');
 const fs = require('fs');
-const list = require('./out.json')
+const list = require('../out.json')
 
 list.forEach(item => {
   fs.writeFileSync(`dev.json`, JSON.stringify({
